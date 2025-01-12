@@ -6,14 +6,21 @@ about:
   image: img/profile.png
 ---
 
-:::{#me}
+::: {#me}
+# Welcome to My Website
+
+
+<p style="color: green; font-size: 20px;">This text is green!</p>
+
+<p style="color: blue; font-size: 24px;">This text is blue!</p>
+
+
 
 ## Goals
 
 ## Education
 
 ## Experience
-
 :::
 
 Thanks for checking out my web site!

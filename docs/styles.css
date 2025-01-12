@@ -1,0 +1,24 @@
+/* Change the navbar background color */
+.navbar {
+    background-color: #013220 !important; /* Bootstrap green color */
+}
+
+/* Change the text color for navbar links */
+.navbar .navbar-brand,
+.navbar .nav-link {
+    color: #ffffff !important; /* White text for better contrast */
+}
+
+/* Add hover effects for navbar links */
+.navbar .nav-link:hover {
+    color: #d4edda !important; /* Light green on hover */
+}
+/* Change the background color of the entire site */
+body {
+    background-color: #b8bc86; /* Replace with your desired color */
+}
+
+/* Optional: Adjust text color for better contrast */
+body {
+    color: #333333; /* Replace with your desired text color */
+}
