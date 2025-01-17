@@ -1,10 +1,24 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About Me",
-    "section": "",
-    "text": "This text is green!\n\n\nThis text is blue!\nThanks for checking out my web site!"
+    "objectID": "index.html#summary",
+    "href": "index.html#summary",
+    "title": "Tree Infographic Template",
+    "section": "Summary",
+    "text": "Summary\n\nsummary info"
+  },
+  {
+    "objectID": "index.html#ecological-services",
+    "href": "index.html#ecological-services",
+    "title": "Tree Infographic Template",
+    "section": "Ecological Services",
+    "text": "Ecological Services\n\necological serivices info"
+  },
+  {
+    "objectID": "index.html#indigenous-history",
+    "href": "index.html#indigenous-history",
+    "title": "Tree Infographic Template",
+    "section": "Indigenous History",
+    "text": "Indigenous History\n\nindigenous history info\n:::\n\n\nReferences"
   },
   {
     "objectID": "projects.html#project-2",

@@ -22,3 +22,37 @@ body {
 body {
     color: #333333; /* Replace with your desired text color */
 }
+
+h1.title {
+  color: #013220; /* Replace #ff5733 with your desired color code */
+}
+
+
+body {
+  color: #013220; /* Replace darkgreen with your desired color */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #013220; /* Replace darkgreen with your desired color */
+}
+
+.quarto-about-image {
+  width: 100%; /* Ensure it takes up the full container width */
+  height: auto; /* Keep the aspect ratio */
+  object-fit: contain; /* Prevent image cropping */
+}
+
+#me img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  display: block; /* Ensure there are no extra margins around the image */
+  margin: 0 auto; /* Center the image */
+}
+
+.quarto-about {
+  overflow: visible;
+  width: 100%;
+  height: auto;
+}
+
