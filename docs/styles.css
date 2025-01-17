@@ -56,3 +56,49 @@ h1, h2, h3, h4, h5, h6 {
   height: auto;
 }
 
+
+####
+/* Ensure there is no reserved space for the image */
+#me {
+  padding-top: 0 !important;  /* Remove any padding at the top of the section */
+  margin-top: 0 !important;   /* Remove any margin at the top of the section */
+}
+
+/* If there is a specific container for the image, hide or reduce its size */
+#me img {
+  display: none !important; /* Hide the image if it's still in the layout */
+}
+
+/* Remove any empty space or reserved height */
+#me .about-image-container {
+  display: none !important; /* Ensure the container for the image is not displayed */
+}
+
+/* Optional: Adjust other sections if they are affected by spacing */
+#me .quarto-about-text {
+  margin-top: 0 !important; /* Remove extra space around the text */
+}
+
+/* Hide empty image container */
+.about-image-container {
+  display: none !important;
+}
+
+/* Hide empty image tag */
+#me img {
+  display: none !important;
+}
+
+/* Ensure the 'about' section doesn't take up unnecessary space */
+#me {
+  display: block;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+/* Adjust for a better layout after removing the image space */
+#me h1, #me h2, #me p {
+  margin-top: 0;
+  padding-top: 0;
+}
+
