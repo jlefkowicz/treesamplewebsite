@@ -20,7 +20,3 @@ format:
     css: styles.css # Reference to the custom CSS file
 
 editor: source
-git config --global user.name "Josh Lefkowicz"
-git config --global user.email "jil1@geneseo.edu"
-
-
