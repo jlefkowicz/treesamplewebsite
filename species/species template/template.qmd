@@ -1,0 +1,25 @@
+---
+title: "About (tree name)"
+format:
+  html:
+    css: styles.css
+---
+
+![Tree](1500white_oak_M_1024x1024.jpg.webp){fig-align="center" fig-caption="This is the caption text" .caption-custom}
+
+
+## Summary
+
+#### summary info
+
+## Ecological Services
+
+#### ecological services info
+
+## Indigenous History
+
+#### indigenous history info
+
+:::
+
+#### References
