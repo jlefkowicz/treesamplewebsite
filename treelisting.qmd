@@ -1,5 +1,15 @@
 ---
-title: "treelisting"
-format: html
----
+title: "Tree Species"
+listing:
+  contents: posts
+  type: default
+  sort:
+    - "date desc"
+    - "title desc"
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [image, title]
 
+page-layout: full
+---

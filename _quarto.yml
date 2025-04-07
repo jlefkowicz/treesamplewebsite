@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Tree Infographic Template"
+  title: "Geneseo Tree ID Project"
   navbar:
     pinned: true
     left: 
