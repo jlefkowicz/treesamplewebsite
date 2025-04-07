@@ -7,7 +7,7 @@ website:
   navbar:
     pinned: true
     left: 
-      - text: Tree Species
+      - text: Tree Specie
       - href: treelisting.qmd
     tools:
   page-footer:
