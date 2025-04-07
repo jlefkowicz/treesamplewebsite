@@ -5,9 +5,8 @@ format:
     css: styles.css
 ---
 
-::: {style="width: 100%; height: auto; text-align: center;"}
-<img src="img/1500white_oak_M_1024x1024.jpg.webp" alt="White Oak" style="width: 100%; height: auto; object-fit: contain;"/>
-:::
+![Tree](img/1500white_oak_M_1024x1024.jpg.webp){fig-align="center" fig-caption="This is the caption text" .caption-custom}
+
 
 ## Summary
 

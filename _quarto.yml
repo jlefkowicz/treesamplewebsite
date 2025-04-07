@@ -6,6 +6,9 @@ website:
   title: "Tree Infographic Template"
   navbar:
     pinned: true
+    left: 
+      - text: Tree Species
+      - href: teelisting.qmd
     tools:
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
@@ -17,3 +20,7 @@ format:
     css: styles.css # Reference to the custom CSS file
 
 editor: source
+git config --global user.name "Josh Lefkowicz"
+git config --global user.email "jil1@geneseo.edu"
+
+
