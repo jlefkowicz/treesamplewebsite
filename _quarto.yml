@@ -7,7 +7,7 @@ website:
   navbar:
     pinned: true
     left: 
-      - text: Tree Specie
+      - text: Tree Species
       - href: treelisting.qmd
     tools:
   page-footer:
@@ -20,3 +20,4 @@ format:
     css: styles.css # Reference to the custom CSS file
 
 editor: source
+
