@@ -1,25 +1,42 @@
 ---
-title: "About (tree name)"
+title: "About White Oak (*Quercus alba*)"
 format:
   html:
     css: styles.css
 ---
 
-![Tree](1500white_oak_M_1024x1024.jpg.webp){fig-align="center" fig-caption="This is the caption text" .caption-custom}
+![](White-Oak.jpg)
 
 
 ## Summary
 
-#### summary info
+#### The white oak is a large, deciduous tree native to eastern and central North America. Known for their rounded canopy, deeply lobed leaves, and light gray bark, white oaks can grow up to 100 feet tall and live for centuries. White oak produces high-grade wood that is strong and rot-resistant, making it ideal for woodworking.
 
 ## Ecological Services
 
-#### ecological services info
+#### White Oaks provide food for many animals, including blue jays, black bears, and more, through their acorns. White oaks are also a common habitat for over 500 species of moths and butterflies. Due to their large size, they are also able to sequester a large amount of carbon from the atmosphere, reducing the amount of greenhouse gases. White Oaks also have the ability to filter water through their roots, providing clean habitats for freshwater aquatic animals
 
-## Indigenous History
+## Fun Facts
+* White Oaks can grow to over 100 feet tall. 
+* They prefer a more acidic soil to grow in. 
+* White Oak is the state tree of Connecticut, Illinois, and Maryland. 
+* White Oaks were used to create the USS Constitution, a large naval boat used        during the War of 1812.
+* White Oaks are often used to create the wooden barrels used to store wine and       whiskey. 
 
-#### indigenous history info
 
-:::
 
 #### References
+
+Rogers, R. (n.d.). White Oak. Quercus alba L. https://www.srs.fs.usda.gov/pubs/misc/ag_654/volume_2/quercus/alba.htm#:~:text=White%20oak%20is%20sometimes%20planted,has%20a%20slow%20growth%20rat 
+
+
+Horn, C. (2018, October 1). Notes of Oak. American Forests. https://www.americanforests.org/article/notes-of-oak/#:~:text=ECOLOGICAL%20HEAVYWEIGHT,watershed%20health%20and%20climate%20mitigation. 
+
+White oak. Arbor Day Foundation. (n.d.). https://shop.arborday.org/treeguide/351?srsltid=AfmBOorwdQzeJnaXTz1cnSJVDi-sWSzz7vrn1Q5Rp5pnA_anVO4mXjgO 
+
+
+
+
+
+
+
