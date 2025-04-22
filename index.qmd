@@ -18,8 +18,9 @@ format:
 
 :::
 
-#### About us
 
-##### We are a group of SUNY Geneseo undergraduate students, and our project is funded through the Student Ambassador Program, specifically the Community Advocates Endowed Ambassadorship in Community Engagement. Our group consists of Naia Peery, Abigail Miller, Annika Hurley and Joshua Lefkowicz. We are also working in collaboration with staff on campus, specifically Dr. Brian Hoven, Dr. Jim Kernan, Dr. Michael Rozalski and Dr. Dan Dezarn.
+## About us
+
+#### We are a group of SUNY Geneseo undergraduate students, and our project is funded through the Student Ambassador Program, specifically the Community Advocates Endowed Ambassadorship in Community Engagement. Our group consists of Naia Peery, Abigail Miller, Annika Hurley and Joshua Lefkowicz. We are also working in collaboration with staff on campus, specifically Dr. Brian Hoven, Dr. Jim Kernan, Dr. Michael Rozalski and Dr. Dan Dezarn.
 
 
