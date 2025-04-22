@@ -9,20 +9,15 @@ format:
 
 ## The Project
 
-#### A trail is being created at "The Grove", a property owned by the Wadsworth Library Board of Trustees. 
-
-A 2022 report summarized 169 studies on environmental education that were carried out in 43 different nations. 
-
-According to Van de Wetering, they discovered that environmental education significantly enhanced the participants' ecological knowledge, attitudes, intentions, and behaviors.
+#### We are working to create a system of labeled trees throughout a trail is being created at "The Grove", a property owned by the Wadsworth Library Board of Trustees. These labels will be plaques with the species' name, as well as a QR code which when scanned will bring up an infographic with information about the tree. The goal for the trail at The Grove is to have it serve as a template for a community-wide tree walk, which would encompass areas like Highland Park. 
 
 ## Our Goals
 
-#### ecological services info
+#### We aim to provide equitable access to information regarding the natural world around us and its history. Through this information, we hope to foster greater appreciation for the benefit of trees and their ecosystem services, as well as combat Nature-deficit disorder, which is a disorder referring to the negative impacts resulting from people spending less time in nature. Ultimately, we hope to inspire future environmentalists and allow people to meaningfully engage with their surrounding natural environment. 
 
-## Those Involved
-
-#### indigenous history info
 
 :::
 
-#### References
+#### About us
+
+##### 
