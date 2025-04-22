@@ -1,12 +1,11 @@
 ---
-title: "About (tree name)"
+title: "Geneseo Community Tree Walk"
 format:
   html:
     css: styles.css
 ---
 
-![Tree](/Users/joshlefkowicz/treesamplewebiste2/img/Screenshot 2025-04-21 at 10.38.42 PM.png){fig-align="center" fig-caption="This is the caption text" .caption-custom}
-
+![Tree](img/Screenshot 2025-04-21 at 10.38.42 PM.png){fig-align="center" fig-caption="This is the caption text" .caption-custom}
 
 ## Summary
 
