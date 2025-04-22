@@ -23,7 +23,25 @@ format:
 * White Oaks were used to create the USS Constitution, a large naval boat used        during the War of 1812.
 * White Oaks are often used to create the wooden barrels used to store wine and       whiskey. 
 
+## Indigenous History/Use
+* acorns for food
+* medicinal purposes, specifically an astringent, tonic, antiseptic, emetic, and supported healing from long intermittent fevers, indigestion, milky urine, and chronic dysentery
+* bathed in bark tea for chills and fevers, as well as drank it for asthma relief, or applied it directly to a sore 
+* decoction of inner bark used for lost voice
+* used as a craft product as splits for baskets, lumber, firewood, furniture and other projects
+* bowmaking
+* leaves used to wrap dough for breadmaking
 
+## Conservation
+
+#### While there are many mature white oaks across the eastern United States, there are relatively few seedlings and saplings growing. This is indicative of the overall regeneration of white oaks being on the decline. Factors contributing to this decline include:
+* fire suppression
+* overabundant deer populations 
+* land-use changes, invasive species
+* climate change 
+* competition from other species like the red maple, whose growth and expansion has been favored by recent conditions
+
+#### Ultimately, the conservation of the white oak can be optimized through a multi-faceted approach of prescribed burns, protecting saplings, and limiting the influence of deer. 
 
 #### References
 
@@ -33,6 +51,8 @@ Rogers, R. (n.d.). White Oak. Quercus alba L. https://www.srs.fs.usda.gov/pubs/m
 Horn, C. (2018, October 1). Notes of Oak. American Forests. https://www.americanforests.org/article/notes-of-oak/#:~:text=ECOLOGICAL%20HEAVYWEIGHT,watershed%20health%20and%20climate%20mitigation. 
 
 White oak. Arbor Day Foundation. (n.d.). https://shop.arborday.org/treeguide/351?srsltid=AfmBOorwdQzeJnaXTz1cnSJVDi-sWSzz7vrn1Q5Rp5pnA_anVO4mXjgO 
+
+Oak: Indigenous peoples’ perspective project: Programs: Events. Adkins Arboretum. (n.d.). https://www.adkinsarboretum.org/programs_events/ipp/oak.html 
 
 
 

@@ -9,7 +9,7 @@ format:
 
 ## The Project
 
-#### We are working to create a system of labeled trees throughout a trail is being created at "The Grove", a property owned by the Wadsworth Library Board of Trustees. These labels will be plaques with the species' name, as well as a QR code which when scanned will bring up an infographic with information about the tree. The goal for the trail at The Grove is to have it serve as a template for a community-wide tree walk, which would encompass areas like Highland Park. 
+#### We are working to create a system of labeled trees throughout a trail that is being created at "The Grove", a property owned by the Wadsworth Library Board of Trustees. These labels will be plaques with the species' name, as well as a QR code which when scanned will bring up an infographic with information about the tree. The goal for the trail at The Grove is to have it serve as a template for a community-wide tree walk, which would encompass areas like Highland Park. 
 
 ## Our Goals
 
