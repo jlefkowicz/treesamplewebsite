@@ -5,17 +5,21 @@ format:
     css: styles.css
 ---
 
-![Tree](img/Screenshot 2025-04-21 at 10.38.42 PM.png){fig-align="center" fig-caption="This is the caption text" .caption-custom}
+![](img/Screenshot 2025-04-21 at 10.38.42 PM.png){fig-align="center" fig-caption="This is the caption text" .caption-custom}
 
-## Summary
+## The Project
 
-#### summary info
+#### A trail is being created at "The Grove", a property owned by the Wadsworth Library Board of Trustees. 
 
-## Ecological Services
+A 2022 report summarized 169 studies on environmental education that were carried out in 43 different nations. 
+
+According to Van de Wetering, they discovered that environmental education significantly enhanced the participants' ecological knowledge, attitudes, intentions, and behaviors.
+
+## Our Goals
 
 #### ecological services info
 
-## Indigenous History
+## Those Involved
 
 #### indigenous history info
 
