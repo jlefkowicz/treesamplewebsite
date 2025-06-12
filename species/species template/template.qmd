@@ -13,7 +13,9 @@ format:
 
 ![](whiteoakleaf.jpeg){width=300px height=200px}
 * Bark is light gray to almost white in color and has a flaky-like appearance. 2 different types of bark patterns on the lower trunk can be seen:
-  * r
+  * Blocky bark pattern
+  * Flaky bark pattern with long plates, resembling shingles
+    * This pattern is always seen in the upper canopy trunk and limbs
 
 
 ## Summary
