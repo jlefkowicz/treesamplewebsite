@@ -1,11 +1,19 @@
 ---
-title: "About White Oak (*Quercus alba*) test puh"
+title: "About White Oak (*Quercus alba*)"
 format:
   html:
     css: styles.css
 ---
 
 ![](White-Oak.jpg)
+
+## Identifying Features
+
+* Leaves are alternate and made up of 7-10 rounded lobes. They are typically 4-7 inches in length. The upper surface is bright green and smooth, with the underside being whitened and smooth. Fall colors can range from brown to red.
+
+![](whiteoakleaf.jpeg){width=300px height=200px}
+* Bark is light gray to almost white in color and has a flaky-like appearance. 2 different types of bark patterns on the lower trunk can be seen:
+  * r
 
 
 ## Summary
