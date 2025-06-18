@@ -29,6 +29,10 @@ https://forestry.ca.uky.edu/sites/forestry.ca.uky.edu/files/white_oak_factsheet.
     
   ![](bark_flaky.png){width=200px height=250px}
 
+* Acorns produced by these trees are about 1 inch long. They are oval to oblong with the "cap" of the acorn covering almost 1/4 of the total acorn. They start as light green and turn brown when they mature. They mature in one growing season and germinate following their dispersal in the fall.
+
+  ![](acorns.jpeg)
+
 ## Summary
 
 #### The white oak is a large, deciduous tree native to eastern and central North America. Known for their rounded canopy, deeply lobed leaves, and light gray bark, white oaks can grow up to 100 feet tall and live for centuries. White oak produces high-grade wood that is strong and rot-resistant, making it ideal for woodworking.
@@ -44,7 +48,7 @@ https://forestry.ca.uky.edu/sites/forestry.ca.uky.edu/files/white_oak_factsheet.
 * White Oaks were used to create the USS Constitution, a large naval boat used        during the War of 1812.
 * White Oaks are often used to create the wooden barrels used to store wine and       whiskey. 
 
-## Indigenous History/Use
+## Indigenous History/Uses
 * acorns for food
 * medicinal purposes, specifically an astringent, tonic, antiseptic, emetic, and supported healing from long intermittent fevers, indigestion, milky urine, and chronic dysentery
 * bathed in bark tea for chills and fevers, as well as drank it for asthma relief, or applied it directly to a sore 
@@ -77,7 +81,7 @@ Oak: Indigenous peoples’ perspective project: Programs: Events. Adkins Arboret
 
 McEwan, R. W., Dyer, J. M., & Pederson, N. (2010b). Multiple interacting ecosystem drivers: Toward an encompassing hypothesis of Oak Forest Dynamics across Eastern North America. Ecography, 34(2), 244–256. https://doi.org/10.1111/j.1600-0587.2010.06390.x 
 
-
+Thomas, L., and Morris, D. 2022. Landowners Guide to Identification and Char- acteristics: White Oak. Cooperative Extension Service, University of Kentucky, Department of Forestry and Natural Resources, FOR-139. 3pp.
 
 
 
