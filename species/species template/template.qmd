@@ -9,14 +9,25 @@ format:
 
 ## Identifying Features
 
+https://forestry.ca.uky.edu/sites/forestry.ca.uky.edu/files/white_oak_factsheet.pdf
+
 * Leaves are alternate and made up of 7-10 rounded lobes. They are typically 4-7 inches in length. The upper surface is bright green and smooth, with the underside being whitened and smooth. Fall colors can range from brown to red.
 
-![](whiteoakleaf.jpeg){width=300px height=200px}
-* Bark is light gray to almost white in color and has a flaky-like appearance. 2 different types of bark patterns on the lower trunk can be seen:
-  * Blocky bark pattern
-  * Flaky bark pattern with long plates, resembling shingles
-    * This pattern is always seen in the upper canopy trunk and limbs
+  ![](whiteoakleaf.jpeg){width=300px height=200px}
 
+* Bark is light gray to almost white in color and has a flaky-like appearance. 2 different types of bark patterns on the lower trunk can be seen:
+
+  * Blocky bark pattern:
+  
+  ![](bark_blocky.jpeg){width=200px height=250px}
+  
+  
+  * Flaky bark pattern with long plates, resembling shingles
+  
+    * This pattern is always seen in the upper canopy trunk and limbs
+    * Flaky bark pattern:
+    
+    ![](bark_flaky.png){width=200px height=250px}
 
 ## Summary
 
