@@ -27,7 +27,7 @@ https://forestry.ca.uky.edu/sites/forestry.ca.uky.edu/files/white_oak_factsheet.
     * This pattern is always seen in the upper canopy trunk and limbs
     * Flaky bark pattern:
     
-    ![](bark_flaky.png){width=200px height=250px}
+  ![](bark_flaky.png){width=200px height=250px}
 
 ## Summary
 
