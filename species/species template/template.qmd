@@ -39,7 +39,16 @@ format:
 
 ## Ecological Services
 
-#### White Oaks provide food for many animals, including blue jays, black bears, and more, through their acorns. White oaks are also a common habitat for over 500 species of moths and butterflies. Due to their large size, they are also able to sequester a large amount of carbon from the atmosphere, reducing the amount of greenhouse gases. White Oaks also have the ability to filter water through their roots, providing clean habitats for freshwater aquatic animals
+#### White Oaks provide food and shelter for many animals. Due to their large size, they are also able to sequester a large amount of carbon from the atmosphere, reducing the amount of greenhouse gases. White Oaks also have the ability to filter water through their roots, providing clean habitats for freshwater aquatic animals
+
+### Animal Uses and Relationships
+* Rely heavily on animals for the dispersal of their acorns, especially gray squirrels and eastern chipmunks via scatter hoarding (collecting and burying acorns for future use)
+* Blue jays disperse the acorns over long distances, their flight has aided in the northward dispersal of the white oaks during the Pleistocene
+* Mammals such as the white tailed deer, white-footed mice, and black bears all rely on acorns as a food source, especially prior to winter
+* Shrews and gray squirrels help white oaks by consuming weevil larvae in the acorns, increasing the chances that the acorn germinates
+* White oaks are a common habitat for over 500 different species of moths nad butterflies
+* White oaks are threatened by the invasive spongy moth, which causes defoliation and eventually death
+
 
 ## Fun Facts
 * White Oaks can grow to over 100 feet tall. 

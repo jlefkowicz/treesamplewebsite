@@ -1,0 +1,6 @@
+---
+title: "About Sugar Maple (*Acer saccharum*)
+format:
+  html:
+    css: styles.css
+---
