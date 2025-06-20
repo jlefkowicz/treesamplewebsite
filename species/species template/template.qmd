@@ -7,10 +7,11 @@ format:
 
 ![](White-Oak.jpg)
 
+## Summary
+
+#### The white oak is a large, deciduous tree native to eastern and central North America. Known for their rounded canopy, deeply lobed leaves, and light gray bark, white oaks can grow up to 100 feet tall and live for centuries. White oak produces high-grade wood that is strong and rot-resistant, making it ideal for woodworking.
+
 ## Identifying Features
-
-https://forestry.ca.uky.edu/sites/forestry.ca.uky.edu/files/white_oak_factsheet.pdf
-
 * Leaves are alternate and made up of 7-10 rounded lobes. They are typically 4-7 inches in length. The upper surface is bright green and smooth, with the underside being whitened and smooth. Fall colors can range from brown to red.
 
   ![](whiteoakleaf.jpeg){width=300px height=200px}
@@ -32,10 +33,9 @@ https://forestry.ca.uky.edu/sites/forestry.ca.uky.edu/files/white_oak_factsheet.
 * Acorns produced by these trees are about 1 inch long. They are oval to oblong with the "cap" of the acorn covering almost 1/4 of the total acorn. They start as light green and turn brown when they mature. They mature in one growing season and germinate following their dispersal in the fall.
 
   ![](acorns.jpeg)
+* The leaves of the white oak look similar to to post oak, bur oak or overcup oak. What makes the white oak leaves distinguishable are their deep finger-like rounded lobes
 
-## Summary
-
-#### The white oak is a large, deciduous tree native to eastern and central North America. Known for their rounded canopy, deeply lobed leaves, and light gray bark, white oaks can grow up to 100 feet tall and live for centuries. White oak produces high-grade wood that is strong and rot-resistant, making it ideal for woodworking.
+* White oak bark looks similar to the barks of multiple other oak species, including swamp white oak, swamp chestnut oak, and overcup oak. 
 
 ## Ecological Services
 

@@ -7,18 +7,18 @@
     "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAbout White Oak (Quercus alba)\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "species/species template/template.html#identifying-features",
-    "href": "species/species template/template.html#identifying-features",
-    "title": "About White Oak (Quercus alba)",
-    "section": "Identifying Features",
-    "text": "Identifying Features\nhttps://forestry.ca.uky.edu/sites/forestry.ca.uky.edu/files/white_oak_factsheet.pdf\n\nLeaves are alternate and made up of 7-10 rounded lobes. They are typically 4-7 inches in length. The upper surface is bright green and smooth, with the underside being whitened and smooth. Fall colors can range from brown to red.\n\nBark is light gray to almost white in color and has a flaky-like appearance. 2 different types of bark patterns on the lower trunk can be seen:\n\nBlocky bark pattern:\n\n\n\nFlaky bark pattern with long plates, resembling shingles\n\nThis pattern is always seen in the upper canopy trunk and limbs\nFlaky bark pattern:\n\n\n\nAcorns produced by these trees are about 1 inch long. They are oval to oblong with the “cap” of the acorn covering almost 1/4 of the total acorn. They start as light green and turn brown when they mature. They mature in one growing season and germinate following their dispersal in the fall."
-  },
-  {
     "objectID": "species/species template/template.html#summary",
     "href": "species/species template/template.html#summary",
     "title": "About White Oak (Quercus alba)",
     "section": "Summary",
     "text": "Summary\n\nThe white oak is a large, deciduous tree native to eastern and central North America. Known for their rounded canopy, deeply lobed leaves, and light gray bark, white oaks can grow up to 100 feet tall and live for centuries. White oak produces high-grade wood that is strong and rot-resistant, making it ideal for woodworking."
+  },
+  {
+    "objectID": "species/species template/template.html#identifying-features",
+    "href": "species/species template/template.html#identifying-features",
+    "title": "About White Oak (Quercus alba)",
+    "section": "Identifying Features",
+    "text": "Identifying Features\n\nLeaves are alternate and made up of 7-10 rounded lobes. They are typically 4-7 inches in length. The upper surface is bright green and smooth, with the underside being whitened and smooth. Fall colors can range from brown to red.\n\nBark is light gray to almost white in color and has a flaky-like appearance. 2 different types of bark patterns on the lower trunk can be seen:\n\nBlocky bark pattern:\n\n\n\nFlaky bark pattern with long plates, resembling shingles\n\nThis pattern is always seen in the upper canopy trunk and limbs\nFlaky bark pattern:\n\n\n\nAcorns produced by these trees are about 1 inch long. They are oval to oblong with the “cap” of the acorn covering almost 1/4 of the total acorn. They start as light green and turn brown when they mature. They mature in one growing season and germinate following their dispersal in the fall.\n\nThe leaves of the white oak look similar to to post oak, bur oak or overcup oak. What makes the white oak leaves distinguishable are their deep finger-like rounded lobes\nWhite oak bark looks similar to the barks of multiple other oak species, including swamp white oak, swamp chestnut oak, and overcup oak."
   },
   {
     "objectID": "species/species template/template.html#ecological-services",
@@ -35,11 +35,11 @@
     "text": "Fun Facts\n\nWhite Oaks can grow to over 100 feet tall.\nThey prefer a more acidic soil to grow in.\nWhite Oak is the state tree of Connecticut, Illinois, and Maryland.\nWhite Oaks were used to create the USS Constitution, a large naval boat used during the War of 1812.\nWhite Oaks are often used to create the wooden barrels used to store wine and whiskey."
   },
   {
-    "objectID": "species/species template/template.html#indigenous-historyuse",
-    "href": "species/species template/template.html#indigenous-historyuse",
+    "objectID": "species/species template/template.html#indigenous-historyuses",
+    "href": "species/species template/template.html#indigenous-historyuses",
     "title": "About White Oak (Quercus alba)",
-    "section": "Indigenous History/Use",
-    "text": "Indigenous History/Use\n\nacorns for food\nmedicinal purposes, specifically an astringent, tonic, antiseptic, emetic, and supported healing from long intermittent fevers, indigestion, milky urine, and chronic dysentery\nbathed in bark tea for chills and fevers, as well as drank it for asthma relief, or applied it directly to a sore\ndecoction of inner bark used for lost voice\nused as a craft product as splits for baskets, lumber, firewood, furniture and other projects\nbowmaking\nleaves used to wrap dough for breadmaking"
+    "section": "Indigenous History/Uses",
+    "text": "Indigenous History/Uses\n\nacorns for food\nmedicinal purposes, specifically an astringent, tonic, antiseptic, emetic, and supported healing from long intermittent fevers, indigestion, milky urine, and chronic dysentery\nbathed in bark tea for chills and fevers, as well as drank it for asthma relief, or applied it directly to a sore\ndecoction of inner bark used for lost voice\nused as a craft product as splits for baskets, lumber, firewood, furniture and other projects\nbowmaking\nleaves used to wrap dough for breadmaking"
   },
   {
     "objectID": "species/species template/template.html#conservation",
@@ -68,12 +68,5 @@
     "title": "Geneseo Community Tree Walk",
     "section": "About us",
     "text": "About us\n\nWe are a group of SUNY Geneseo undergraduate students, and our project is funded through the Student Ambassador Program, specifically the Community Advocates Endowed Ambassadorship in Community Engagement. Our group consists of Naia Peery, Abigail Miller, Annika Hurley and Joshua Lefkowicz. We are also working in collaboration with staff on campus, specifically Dr. Brian Hoven, Dr. Jim Kernan, Dr. Michael Rozalski and Dr. Dan Dezarn."
-  },
-  {
-    "objectID": "species/species template/template.html#indigenous-historyuses",
-    "href": "species/species template/template.html#indigenous-historyuses",
-    "title": "About White Oak (Quercus alba)",
-    "section": "Indigenous History/Uses",
-    "text": "Indigenous History/Uses\n\nacorns for food\nmedicinal purposes, specifically an astringent, tonic, antiseptic, emetic, and supported healing from long intermittent fevers, indigestion, milky urine, and chronic dysentery\nbathed in bark tea for chills and fevers, as well as drank it for asthma relief, or applied it directly to a sore\ndecoction of inner bark used for lost voice\nused as a craft product as splits for baskets, lumber, firewood, furniture and other projects\nbowmaking\nleaves used to wrap dough for breadmaking"
   }
 ]
