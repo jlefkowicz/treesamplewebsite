@@ -12,11 +12,11 @@ format:
 #### The white oak is a large, deciduous tree native to eastern and central North America. Known for their rounded canopy, deeply lobed leaves, and light gray bark, white oaks can grow up to 100 feet tall and live for centuries. White oak produces high-grade wood that is strong and rot-resistant, making it ideal for woodworking.
 
 ## Identifying Features
-* Leaves are alternate and made up of 7-10 rounded lobes. They are typically 4-7 inches in length. The upper surface is bright green and smooth, with the underside being whitened and smooth. Fall colors can range from brown to red.
+* **Leaves** are alternate and made up of 7-10 rounded lobes. They are typically 4-7 inches in length. The upper surface is bright green and smooth, with the underside being whitened and smooth. Fall colors can range from brown to red.
 
   ![](whiteoakleaf.jpeg){width=300px height=200px}
 
-* Bark is light gray to almost white in color and has a flaky-like appearance. 2 different types of bark patterns on the lower trunk can be seen:
+* **Bark** is light gray to almost white in color and has a flaky-like appearance. 2 different types of bark patterns on the lower trunk can be seen:
 
   * Blocky bark pattern:
   
@@ -30,7 +30,7 @@ format:
     
   ![](bark_flaky.png){width=200px height=250px}
 
-* Acorns produced by these trees are about 1 inch long. They are oval to oblong with the "cap" of the acorn covering almost 1/4 of the total acorn. They start as light green and turn brown when they mature. They mature in one growing season and germinate following their dispersal in the fall.
+* **Acorns** produced by these trees are about 1 inch long. They are oval to oblong with the "cap" of the acorn covering almost 1/4 of the total acorn. They start as light green and turn brown when they mature. They mature in one growing season and germinate following their dispersal in the fall.
 
   ![](acorns.jpeg)
 * The leaves of the white oak look similar to to post oak, bur oak or overcup oak. What makes the white oak leaves distinguishable are their deep finger-like rounded lobes
@@ -42,7 +42,7 @@ format:
 #### White Oaks provide food and shelter for many animals. Due to their large size, they are also able to sequester a large amount of carbon from the atmosphere, reducing the amount of greenhouse gases. White Oaks also have the ability to filter water through their roots, providing clean habitats for freshwater aquatic animals
 
 ### Animal Uses and Relationships
-* Rely heavily on animals for the dispersal of their acorns, especially gray squirrels and eastern chipmunks via scatter hoarding (collecting and burying acorns for future use)
+* White oaks rely heavily on animals for the dispersal of their acorns, especially gray squirrels and eastern chipmunks via scatter hoarding (collecting and burying acorns as a future food soruce)
 * Blue jays disperse the acorns over long distances, their flight has aided in the northward dispersal of the white oaks during the Pleistocene
 * Mammals such as the white tailed deer, white-footed mice, and black bears all rely on acorns as a food source, especially prior to winter
 * Shrews and gray squirrels help white oaks by consuming weevil larvae in the acorns, increasing the chances that the acorn germinates

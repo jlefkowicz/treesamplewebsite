@@ -1,6 +1,27 @@
 ---
-title: "About Sugar Maple (*Acer saccharum*)
+title: "About Sugar Maple (*Acer saccharum*)"
 format:
   html:
     css: styles.css
 ---
+
+![](sugarmaple.jpg)
+
+## Summary
+
+#### The sugar maple is a large deciduous tree that is native to eastern North America. Typically reaching 60-75 feet in height, the sugar maple has a dense, rounded crown and five-lobed leaves which transform into brilliant colors during the autumn. Younger trees have a smooth and gray bark which becomes rough with age. Due to its high sugar content, the sap is used to produce maple syrup.
+
+
+## Identifying Features
+
+* The **Leaves** of sugar maples are segmented into 5 lobes characterized by sharp points and connected by smooth, U-shaped notches However, some younger individuals might have fewer than 5 lobes. The leaves grow perpendicular (at a right angle) from the twig in pairs, also known as growing in *opposite* orientation.Tthe leaves will grow in sets of two with one leave always across from another on every twig. Mature leaves will average between 3 and 5 inches, and are equally as wide. Leaves are yellow-green on top and lighter on the underside, and turn yellow, orange or red in autumn.
+
+  ![](sugarmaple_leaf.jpeg){width=300px height=200px}
+
+## Ecological Services
+
+## Fun Facts
+
+## INdigenous History/Uses
+
+## Conservation
