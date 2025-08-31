@@ -1,0 +1,72 @@
+---
+title: "About Black Maple (*Acer nigrum*)"
+format:
+  html:
+    css: styles.css
+---
+
+![](blackmaple.jpeg)
+
+## Summary
+
+#### The black maple is a large deciduous tree that is closely related to the sugar maple. Mostly grown in moist soils and mixed hardwood forests, the black maple can live up to 200 years. Their leaves are three-lobed and have a velvety underside. 
+
+## Identifying Features
+* **Leaves** are opposite on the stem and typically three-lobed, with each lobe tapering to a point. Leaves have smooth/wavy margins and drooping sides. Coloration is dark green from above, with a yellowish-green underside. In autumn, the leaves are colored yellow, orange or deep red
+
+  - Leaf of a black maple:
+  
+    ![](blackmapleleaf.jpeg)
+* The **bark** of black maples vary with age. Younger trees have thin, smooth and pale/gray bark. Older bark will be dark and have deep furrows. 
+
+  - Bark of a young black maple: 
+    
+    ![](youngbm.jpeg)
+  
+  - Bark of an old black maple:
+  
+    ![](oldbm.jpeg)
+* The **seeds** are reffered to as samara, which is a type of seed with a flatted wing that aids in dispersal. The Samara occur in double-winged, U-shaped pairs. The wings are about an inch long and diverge slightly more than a sugar maple's. A smooth, bright red-brown seed is encased at the base of each wing. 
+
+  -Samara of a black maple
+  
+    ![](bmsamara.jpeg)
+  
+
+## Ecological Services
+
+#### Black maples provide valuable ecological services through its role in forest ecosystems and landscapes. Its deep, extensive roots help stabilize soil and prevent erosion. As a shade-tolerant species, it contributes to forest structure and supports plant diversity in the understory. The trees also play a role in nutrient cycling and water regulation. Black maples also provide provisioning services to people, including high-quality hardwood used in furniture and flooring, as well as sap that can be tapped for maple syrup production.
+
+### Animal Uses and Relationships
+* Beavers and porcupines eat the wood and bark of black maple trees
+* White tailed deer eat the twigs and foliage
+* Seeds are eaten by voles, white footed mice, squirrels, chipmunks and many others
+* Squirrels and birds nest in the cavities of old black maples
+* Southern flying squirrels feed on the sap of black maples
+* Some species of bats use the trees as root trees and as maternity colonies 
+
+## Fun Facts
+* Black maples can be tapped for their sap and turned into maple syrup
+* Black maple wood is often used for hardwood flooring, baseball bats and more
+* Black maples can thrive in an urban environment
+* Ground nesting bees utilize the flowers produced by black maples
+
+## Indigenous History/Uses
+* Used sap to create maple syrup and sugar for food, as well as medicinal purposes and trade
+* The hard, strong wood was utilized for weapons and tools, in particular spoons, bowls and bows
+* The bark was used to create medicinal teas
+
+## Conservation
+
+#### The status of black maples globally and nationally is secure. 
+
+### References
+
+Black Maple. Black maple (Acer nigrum). (6AD). https://illinoiswildflowers.info/trees/plants/black_maple.html 
+
+Blake, A. (n.d.). Black maple: Rooting for the underdog. LEAF. https://www.yourleaf.org/blog/andrea-bake/oct-17-2013/black-maple-rooting-underdog 
+https://www.dnr.state.mn.us/trees/black-maple.html
+
+Acer nigrum | Black Maple. NatureServe Explorer 2.0. (n.d.). https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.138128/Acer_nigrum 
+
+
