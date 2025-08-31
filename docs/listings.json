@@ -3,7 +3,8 @@
     "listing": "/treelisting.html",
     "items": [
       "/species/species template/template.html",
-      "/species/Sugar maple/sugar_maple_info.html"
+      "/species/Sugar maple/sugar_maple_info.html",
+      "/species/black maple/blackmaple.html"
     ]
   }
 ]
