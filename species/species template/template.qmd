@@ -77,7 +77,7 @@ format:
 
 #### Ultimately, the conservation of the white oak can be optimized through a multi-faceted approach of prescribed burns, protecting saplings, and limiting the influence of deer. 
 
-#### References
+### References
 
 Rogers, R. (n.d.). White Oak. Quercus alba L. https://www.srs.fs.usda.gov/pubs/misc/ag_654/volume_2/quercus/alba.htm#:~:text=White%20oak%20is%20sometimes%20planted,has%20a%20slow%20growth%20rat 
 

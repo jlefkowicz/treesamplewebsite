@@ -61,7 +61,7 @@ format:
 
 #### Currently, the sugar maple is not a threatened or endangered species, and is considered to be globally and nationally secure. However, the looming threat of climate change presents emerging risks, as cold winters are required for proper seed germination. Rising temperatures may push their viable range northward. 
 
-#### References
+### References
 
 Trees of the Adirondacks: Sugar maple (Acer saccharum). Sugar Maple | Acer saccharum. (n.d.). https://www.wildadirondacks.org/trees-of-the-adirondacks-sugar-maple-acer-saccharum-Marshall.html?
 

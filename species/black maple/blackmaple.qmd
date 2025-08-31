@@ -16,21 +16,21 @@ format:
 
   - Leaf of a black maple:
   
-    ![](blackmapleleaf.jpeg)
+    ![](blackmapleleaf.jpeg){width="200px" height="300px"}
 * The **bark** of black maples vary with age. Younger trees have thin, smooth and pale/gray bark. Older bark will be dark and have deep furrows. 
 
   - Bark of a young black maple: 
     
-    ![](youngbm.jpeg)
+    ![](youngbm.jpeg){width="300" height="200"}
   
   - Bark of an old black maple:
   
-    ![](oldbm.jpeg)
+    ![](oldbm.jpeg){width="200px" height="300px"}
 * The **seeds** are reffered to as samara, which is a type of seed with a flatted wing that aids in dispersal. The Samara occur in double-winged, U-shaped pairs. The wings are about an inch long and diverge slightly more than a sugar maple's. A smooth, bright red-brown seed is encased at the base of each wing. 
 
   -Samara of a black maple
   
-    ![](bmsamara.jpeg)
+    ![](bmsamara.jpeg){width="300" height="300"}
   
 
 ## Ecological Services
