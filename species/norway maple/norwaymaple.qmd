@@ -1,0 +1,45 @@
+---
+title: "About Norway Maple (*Acer platanoides*)"
+format:
+  html:
+    css: styles.css
+---
+
+## Summary
+
+#### The Norway maple is a large, non-native deciduous tree that can grow up to 60 feet tall. Tolerant of many growing environments, the Norway maple has shallow roots and produces significant shade with its dense and rounded canopy. This makes it difficult for other plants to grow in the understory below. Its leaves are broad with five to seven lobes, often larger than the leaves of native maples.
+
+## Identifying Features
+
+-   The **leaves** are green and opposite. The leaves are typically broader than they are high, measuring about 4-7 inches wide. The leaves also possess 5 prominent lobes.
+
+![](norwaymapleleaf.jpeg){width="300px" height="200px"}
+
+-   The **bark** is colored grayish black/brown, and furrowed. Younger trees have smooth, gray to light brown colored bark.
+
+  -   Bark of a young norway maple: 
+    
+    ![](norwaymapleob.jpeg){width = "125px" height = "200px"}
+  
+    
+  -   Bark of a mature norway maple:
+  
+    
+
+## Ecological Services
+
+### Animal Uses and Relationships
+
+-   
+
+## Fun Facts
+
+## Indigenous History/Uses
+
+## Conservation
+
+#### 
+
+### References
+
+https://nyis.info/species/norway-maple/

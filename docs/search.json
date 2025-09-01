@@ -4,7 +4,7 @@
     "href": "treelisting.html",
     "title": "Tree Species",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAbout White Oak (Quercus alba)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Sugar Maple (Acer saccharum)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Black Maple (Acer nigrum)\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAbout White Oak (Quercus alba)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Sugar Maple (Acer saccharum)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Norway Maple (Acer platanoides)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Black Maple (Acer nigrum)\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "species/black maple/blackmaple.html#summary",
@@ -89,6 +89,41 @@
     "title": "About Sugar Maple (Acer saccharum)",
     "section": "Conservation",
     "text": "Conservation\n\nCurrently, the sugar maple is not a threatened or endangered species, and is considered to be globally and nationally secure. However, the looming threat of climate change presents emerging risks, as cold winters are required for proper seed germination. Rising temperatures may push their viable range northward.\n\n\nReferences\nTrees of the Adirondacks: Sugar maple (Acer saccharum). Sugar Maple | Acer saccharum. (n.d.). https://www.wildadirondacks.org/trees-of-the-adirondacks-sugar-maple-acer-saccharum-Marshall.html?\nMichael Simpson, P. (2024, November 29). How to identify Sugar maple trees: 3 easy ways. wikiHow. https://www.wikihow.com/Identify-Sugar-Maple-Trees\nSugar Maple. Missouri Department of Conservation. (n.d.). https://mdc.mo.gov/discover-nature/field-guide/sugar-maple"
+  },
+  {
+    "objectID": "species/norway maple/norwaymaple.html#identifying-features",
+    "href": "species/norway maple/norwaymaple.html#identifying-features",
+    "title": "About Norway Maple (Acer platanoides)",
+    "section": "Identifying Features",
+    "text": "Identifying Features\n\nThe leaves are green and opposite. The leaves are typically broader than they are high, measuring about 4-7 inches wide. The leaves also possess 5 prominent lobes.\n\n\n\nThe bark is colored grayish black/brown, and furrowed. Younger trees have smooth, gray to light brown colored bark.\nBark of a young norway maple:\n\n![](norwaymapleob.jpeg){width = \"125px\" height = \"200px\"}\n\nBark of a mature norway maple:\n\n![](norwaymapleyb.jpeg){width = \"125px\" height = \"200px\"}"
+  },
+  {
+    "objectID": "species/norway maple/norwaymaple.html#ecological-services",
+    "href": "species/norway maple/norwaymaple.html#ecological-services",
+    "title": "About Norway Maple (Acer platanoides)",
+    "section": "Ecological Services",
+    "text": "Ecological Services\n\nAnimal Uses and Relationships"
+  },
+  {
+    "objectID": "species/norway maple/norwaymaple.html#fun-facts",
+    "href": "species/norway maple/norwaymaple.html#fun-facts",
+    "title": "About Norway Maple (Acer platanoides)",
+    "section": "Fun Facts",
+    "text": "Fun Facts"
+  },
+  {
+    "objectID": "species/norway maple/norwaymaple.html#indigenous-historyuses",
+    "href": "species/norway maple/norwaymaple.html#indigenous-historyuses",
+    "title": "About Norway Maple (Acer platanoides)",
+    "section": "Indigenous History/Uses",
+    "text": "Indigenous History/Uses"
+  },
+  {
+    "objectID": "species/norway maple/norwaymaple.html#conservation",
+    "href": "species/norway maple/norwaymaple.html#conservation",
+    "title": "About Norway Maple (Acer platanoides)",
+    "section": "Conservation",
+    "text": "Conservation\n\n\n\n\nReferences\nhttps://nyis.info/species/norway-maple/"
   },
   {
     "objectID": "species/species template/template.html#summary",
