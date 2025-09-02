@@ -45,22 +45,29 @@ format:
 
 -   The leaves can be fed on by numerous moth caterpillars
 -   The flowers are popular amongst various pollinator species
--   The seeds are a popular food source for birds and small mammals
--   George Washington is said to have planted Norway Maples at Mount Vernon in the late 1700s. 
--   
+-   The seeds are a popular food source for birds and small mammals   
 
 ## Fun Facts
 
+-   George Washington is said to have planted Norway Maples at Mount Vernon in the late 1700s. 
+-   Norway maple sap is toxic and can cause skin irritation, unlike sugar maples
+-   Norway maples grow very quickly and can reach 40-60 feet tall, and in some case higher
+-   In fall, their foliage becomes a bright yellow with a reddish tint
+
 ## Indigenous History/Uses
+
+-   Indigenous history with the norway maples is non-existent, as the tree was introduced in the 1700s by Europeans.
 
 ## Conservation
 
-#### 
+#### Norway maples are the most widespread native maple in Europe, with their populaitons ranging from souther Scandinavia to Northern Spain. Their populations in their native range are not currently under any conservation concern. In North America, the tree's status is also not of concern as it is highly invasive in forest ecosystems. 
 
 ### References
 
-https://www.nrs.fs.usda.gov/pubs/jrnl/1990/ne_1990_nowak_003.pdf
+Nowak, D. J., & Rowntree, R. A. (n.d.). History and range of Norway Maple. USDA Forest Service. https://www.nrs.fs.usda.gov/pubs/jrnl/1990/ne_1990_nowak_003.pdf 
 
-https://docs.google.com/document/d/1gWKluc_A5jurXk4ZNyGbooiZHuG4NPCAA4X_cCOVl5Y/edit?tab=t.0
+Woodland Trust. (n.d.). Maple, Norway (Acer platanoides). https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/a-z-of-british-trees/norway-maple/#:~:text=Norway%20maple%20can%20grow%20up%20to%2025m%20tall.&text=Its%20leaves%20are%20palmate%20with%20five%20lobes%20with%20a%20few%20pointed%20teeth.&text=It%20has%20bright%20green%20flowers%20growing%20in%20clusters%20of%20up%20to%2030.&text=Its%20bark%20is%20grey%20with%20fine%20ridges. 
 
-https://nyis.info/species/norway-maple/
+Norway Maple. NYIS. (n.d.). https://nyis.info/species/norway-maple/ 
+
+Wikimedia Foundation. (2025, August 16). Acer platanoides. Wikipedia. https://en.wikipedia.org/wiki/Acer_platanoides 
