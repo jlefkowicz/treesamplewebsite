@@ -5,16 +5,41 @@ format:
     css: styles.css
 ---
 
+![](blackoak.jpeg)
+
 ## Summary
 
 #### The black oak is a common, medium-sized tree that belongs to the red oak family. It is widespread and found on many sites with varying soil conditions. The leaves of black oaks also vary, being between 4 and 10 inches long, with five to seven lobes. Young trees have bark that is grey and smooth, while older trees have very dark grey to black bark.  
 
 ## Identifying Features
--   
+-   The **leaves** of the black oak are highly variable, however are usually between 4 and 10 inches long with 5-7 lobes and colored green (yellow-dull red in the fall). The lobes have bristle tips (sharp, hair-like point at each lobe's point).  Sun leaves (found on the outermost canopy layer) are typically shiny and thick, with deep spaces between the lobes. Shaded leaves tend to be more broad, less shiny and papery. One of the most important identifying characteristics of black oaks are the velvety hairs found on the underside of the leaf, especially along the leaf vein. 
+
+  - Sun leaf example:
+  
+    ![](blackoaksunleaf.jpeg){width="200px" height="300px"}
+  - Shaded leaf example:
+  
+    ![](blackoakshadeleaf.jpeg){width="300px" height="200px"}
+  - Velvety underside hairs:
+  
+    ![](blackoakhair.jpeg){width="200px" height="300px"}
+-   The **bark** is gray and smooth on younger trees, and very dark gray to near black on mature trees. Mature bark also becomes roublackgh. The inner bark is yellow-orange, giving this species a second name of "yellow oak"
+  
+  - Bark of a young black oak:
+  
+    ![](blackoakyb.jpeg){width="200px" height="300px"}
+  - Bark of a mature black oak:
+  
+    ![](blackoakob.jpeg){width="200px" height="300px"}
+    
+  - Inner bark of a black oak:
+  
+    ![](blackoakinnerbark.jpeg){width="200px" height="200px"}
+    
 
 ## Ecological Services
 
-####
+#### 
 
 ### Animal Uses/Relationships
 * Acorns from the black oak provide an essential food source for over 100 different animals including bears, oppossums, ducks and many more
@@ -36,4 +61,11 @@ format:
 
 ### References
 
+https://www.treehugger.com/black-oak-tree-overview-1343224
+
 https://forestry.ca.uky.edu/sites/forestry.ca.uky.edu/files/black_oak_factsheet.pdf
+
+
+
+
+
