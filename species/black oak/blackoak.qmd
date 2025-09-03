@@ -1,0 +1,39 @@
+---
+title: "About Black Oak (*Quercus velutina*)"
+format:
+  html:
+    css: styles.css
+---
+
+## Summary
+
+#### The black oak is a common, medium-sized tree that belongs to the red oak family. It is widespread and found on many sites with varying soil conditions. The leaves of black oaks also vary, being between 4 and 10 inches long, with five to seven lobes. Young trees have bark that is grey and smooth, while older trees have very dark grey to black bark.  
+
+## Identifying Features
+-   
+
+## Ecological Services
+
+####
+
+### Animal Uses/Relationships
+* Acorns from the black oak provide an essential food source for over 100 different animals including bears, oppossums, ducks and many more
+* The acorns serve as a necessity for many animals during times of food scarcity in winter
+  * The acorns retain their nutritional value throughout the year
+* Many species of moths rely on black oak for food for their larvae, however gypsy moths have the potential to be incredible destructive. 2 or 3 deflorations from these insects weakens the tree enough to kill it. 
+
+## Fun Facts
+* The scientific name *velutina* means "velvety", because of the hairs present on the leaves of the black oak
+* The wood of the black oak is often used for furniture, flooring and more
+* The inner bark of the black oak is yellow/arange
+
+## Indigenous History/Uses
+* 
+
+## Conservation
+
+####
+
+### References
+
+https://forestry.ca.uky.edu/sites/forestry.ca.uky.edu/files/black_oak_factsheet.pdf
