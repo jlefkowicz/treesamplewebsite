@@ -1,5 +1,5 @@
 ---
-title: "About Black Oak (*Quercus velutina*)"
+title: "About Black Pine (*Pinus nigra*)"
 format:
   html:
     css: styles.css
