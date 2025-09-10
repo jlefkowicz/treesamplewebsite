@@ -53,19 +53,25 @@ format:
 * The inner bark of the black oak is yellow/arange
 
 ## Indigenous History/Uses
-* 
+* The acorns were collected and leached to remove tannins, then ground into flour to prepare various dishes
+* The inner bark contains quercitannic acid and was used medicinally in the treatment of numerous conditions, including intermittent fevers, asthma and chronic dysentery.
+* The wood was used in construction for fence posts and as fuel, although it was less commonly used than other trees due to its lower quality.
 
 ## Conservation
 
-####
+#### Black oak is currently classified as a species of least concern and is not facing significant risks of extinction. In certain areas, localized pressures such as habitat change and disease might impact populations. However, the overall conservation status of the species is secure. 
 
 ### References
 
-https://www.treehugger.com/black-oak-tree-overview-1343224
+Wikipedia contributors. (n.d.). Quercus velutina. Wikipedia. Retrieved September 9, 2025, from https://en.wikipedia.org/wiki/Quercus_velutina
 
-https://forestry.ca.uky.edu/sites/forestry.ca.uky.edu/files/black_oak_factsheet.pdf
+Nix, S. (2022, February 18). Black oak identification: How to identify the black oak tree. Treehugger. https://www.treehugger.com/black-oak-tree-overview-1343224
 
+Thomas, L., & Morris, D. (n.d.). Black oak (Quercus velutina). University of Kentucky Department of Forestry and Natural Resources. Retrieved September 9, 2025, from https://forestry.ca.uky.edu/sites/forestry.ca.uky.edu/files/black_oak_factsheet.pdf
 
+Museum of Science and Industry. (n.d.). Black oak (Quercus velutina). Illinois State Museum. Retrieved September 9, 2025, from
+https://www.museum.state.il.us/muslink/forest/htmls/trees/Q-velutina.html
 
+Plants for a Future. (n.d.). Quercus velutina. Retrieved September 9, 2025, from https://pfaf.org/user/Plant.aspx?LatinName=Quercus+velutina
 
 

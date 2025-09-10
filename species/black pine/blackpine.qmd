@@ -1,5 +1,76 @@
 ---
-title: "blackpine"
-format: html
+title: "About Black Oak (*Quercus velutina*)"
+format:
+  html:
+    css: styles.css
 ---
 
+![](blackpine.jpeg)
+
+## Summary
+
+#### Black pine, also known as Austrian pine or European black pine, is a conifer native from central Europe to western Asia. As a medium to large tree, the black pine tyipcally grows to a height of 40 to 60 feet tall. Young trees have a distinct pyramidal shape, while the crown of older trees rounds out with age. Although the tree is not native to North America, it has naturalized in the northern states and has been widely planted in New England, around the Great Lakes and in the Northwest. 
+
+## Identifying Features
+
+-   The **needles** occur in pairs and are generally 10-15 cm long and stiff. The edges are slightly serrated and can be straight or curved
+
+![](blackpineneedle.jpeg){width="200px" height="200px"}
+
+![](blackpinefolliage.jpeg){width="300px" heigh="200px"}
+
+-   The **seed cones** grow to 5-8 cm and are symmetrical. They are green when young and ripen to light brown with thick, smooth scales which end in a small, flat or blunt tip. Cones are usually singly or in pairs on short stalks, attached close to branches. The cones usually persist in the canopy through winter after the seeds have dropped.
+
+![](blackpinecone.jpeg){width="150px" height="200px"}
+
+-   The **bark** on young black pines is dark gray, rough and furrowed. As the tree ages it breaks into semi-rectangular, scaly plates and turns dark gray to blackish in color.
+
+-   Mature black pine bark:
+
+![](blackpineoldbark.jpg){width="150px" height="200px"}
+
+-   Young black pine bark:
+
+![](blackpineyoungbark.jpeg){width="150px" height="200px"}
+
+## Ecological Services
+
+#### Aside from basic services such as carbon sequestration and airborn pollutant interception, black pines offer numerous other benefits, which partially explain their widespread use as a landscaping tree. The trees have extensive root networks, as well as high adaptability and soil tolerance. These root systmes help stabilize slopes, quarries and degraded soils. These trees have particularly been used to rehabilitate strip-mined lands, and other sites of that nature, due to their adaptability and resistance to high concentrations of heavy metals in the area. Additionally, the trees are used widely as street trees as they are resistant to salt spray (used for road de-icing).
+
+## Animal Uses/Relationships
+
+-   Offer year-round shelter to numerous species including deer, birds and more
+-   Important source of food during winter for deer and other animals
+-   Seeds are eaten by squirrels, mice and some birds, however the seeds are smaller and less preferred than the larger seeds of other pines
+-   Deer browse on young trees
+-   Supports a wide variety of insect herbivores
+
+## Fun Facts
+
+-   Black pines can live to over 500 years old
+-   The male reproductive cones are yellow and the female reproductive cones are red
+-   Black pines are *extremely* tolerant and can resist many conditions
+-   Black pines are often planted in cemeteries and parks for their formal, somber appearance
+
+## Indigenous Uses/History
+
+-   The black pine wasn't introduced to North American until the mid 1800s, so there is a lack of history regarding Native Americans and this species of tree.
+
+## Conservation
+
+#### Globally, black pine populations are stable and are not of concern. 
+
+
+### References
+
+U.S. Forest Service. (1993). Pinus nigra. Fire Effects Information System. U.S. Department of Agriculture. Retrieved September 10, 2025, from https://www.fs.usda.gov/database/feis/plants/tree/pinnig/all.html
+
+University of Nebraska–Lincoln. (n.d.). Pinus nigra bark [Photograph]. School of Natural Resources. Retrieved September 10, 2025, from https://snr.unl.edu/data/images/trees/species/PINI/bark_2.jpg
+
+North Carolina State University. (n.d.). Pinus nigra (Austrian Black Pine, Austrian Pine, Black Pine, Calabrian Pine, European Black Pine, Larch Pine). North Carolina Extension Gardener Plant Toolbox. Retrieved September 10, 2025, from https://plants.ces.ncsu.edu/plants/pinus-nigra/
+
+Woodland Trust. (n.d.). Black pine (Pinus nigra) – British Trees. Woodland Trust. Retrieved September 10, 2025, from https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/a-z-of-british-trees/black-pine/
+
+Missouri Botanical Garden. (n.d.). Pinus nigra – Plant Finder. Retrieved September 10, 2025, from https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=284999
+
+Lynch, S., & McNally, I. R. (2025). Austrian pine (Pinus nigra). Bates College Canopy. Retrieved September 10, 2025, from https://www.bates.edu/canopy/species/austrian-pine/
