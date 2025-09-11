@@ -3,8 +3,6 @@ title: "About Eastern Red Bud (*Cercis canadensis*)"
 format:
   html:
     css: styles.css
-listing:
-  contents: null
 ---
 
 ![](easternredbud.jpeg)
