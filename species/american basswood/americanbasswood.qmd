@@ -1,5 +1,76 @@
 ---
-title: "americanbasswood"
-format: html
+title: "About American Basswood (*Tilia americana*)"
+format:
+  html:
+    css: styles.css
 ---
+
+![](americanbasswood.jpeg)
+
+## Summary
+
+#### American basswood, also known as American linden, is a large, fast-growing tree. It is characterized by soft, light wood, broad, oval leaves, and fragrant flowers. Young trees have a conical shape while a rounder crown develops with age. This tree sprouts at the base, resulting in a clump of trees growing around what was the original tree. The trees can be found throughout the Eastern U.S. on mesic sites, as well as areas with coarser sands. It is commonly found in deciduous woodlands close to wetter areas. 
+
+## Identifying Features
+
+* The **leaves** of the American basswood are asymmetrical and lopsided heart-shaped. Its leaf is the largest of all broadleaf trees and is nearly as wide as it is long, generally between 5 and 8 inches. The topside of the leaf is a rich shade of green, with the underside being a paler green to almost-white. The leaves edge are slightly serrated and a short point. 
+
+![](abasswoodleaf.jpeg){height="300px"}
+
+* The **bark** is light to silvery gray and fairy smooth on young trees. With age, the bark turns darker, sometimes a near-black, and develops long and deep narrow ridges.
+
+  * Bark of a mature American basswood:
+
+    ![](abasswoodbark.jpeg){height="200px"}
+
+  * Bark of a young American basswood:
+  
+  ![](abasswoodyb.jpeg){height="200px"}
+
+* The **fruits** are rount nutlets, about 1/4 an inch, and are covered with gray-brown hair. THey occur in hanging clusters with curving, leafy bract acting as a wing on the top of the cluster. The fruit ripens in the fall.
+
+![](abwoodfruit.jpeg){height="300px"}
+
+## Ecological Services
+
+#### American basswood is a fast-growing, large deciduous tree and therefore absorbs a signifcant amount of C0~2~. The leaves are also large and trap many airborne pollutants. The leaf litter from the tree decomposes quickly which enriches the soil. The trees extensive root systems help prevent soil erosion. 
+
+### Animal Uses and Relationships
+
+* Bees, especially honeybees, are attracted to its nectar-rich flowers
+* Larvae of several moth species feed on basswood leaves
+* Birds, as well as squirrels, raccoons and bats will use the tree for nesting sites and shelter
+* White-tailed deer browse on young saplings
+
+## Fun Facts
+
+* The flowers are so nectar-rich, that beekeepers will commonly plant them. This results in "basswood honey", which is light-colored and has a unique flavor
+* Its wood is lightweight and soft, therefore is easy to carve
+* The tree is a pioneer species, meaning it is one of the first trees to grow back in disturbed forests
+* The young leaves are edible and tender, and can be eaten raw in salads
+
+## Indigenous History/Uses
+
+* The bast from the basswood was used as a strong woody fiber for making rope or weaving baskets
+* The soft wood was used for carving
+* Tea from the flowers and inner bark was used to treat colds, fevers coughs and lung issues
+* The ashes of burnt firewood were used in soap-making
+
+## Conservation
+
+####
+
+### References
+
+https://www.wildflower.org/plants/result.php?id_plant=TIAM
+
+https://www.treehugger.com/identify-american-basswood-1341847
+
+https://dendro.cnre.vt.edu/dendrology/syllabus/factsheet.cfm?ID=88
+
+https://ffgs.ifas.ufl.edu/tree-tour/american-basswood/
+
+
+
+
 
