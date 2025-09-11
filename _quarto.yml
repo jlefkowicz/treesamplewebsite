@@ -8,7 +8,7 @@ website:
     pinned: true
     left: 
       - text: Tree Species
-      - href: treelisting.html
+      - href: treelisting.qmd
     tools:
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
