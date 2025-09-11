@@ -1,0 +1,74 @@
+---
+title: "About Northern Red Oak (*Quercus rubra*)"
+format:
+  html:
+    css: styles.css
+---
+
+![](northernredoak.jpeg)
+
+## Summary
+
+#### Northern red oak is widespread and grows in a variety of topographic conditions. It is one of the faster-growing oak species. As a large tree, the northern red oak provides good cover and nesting sites for wildlife. Due to its ease of growth, attractive red color in autumn, and tall stature, it is commonly used in landscaping.
+
+## Identifying Features
+
+-   The **leaves** are about 5-8 inches long, with 7-11 pointed lobes with bristle tips (the bristle tips on the lobes help to distinguish them from white oaks). The gaps between the lobes extends about halfway to the middle of the leaf. The leaves range from somewhat shiny to dull, and are dark green on top with a smooth underside. The leaf stem is sometimes red. In autumn leaves turn red or brown. 
+
+![](redoakleaf.jpeg){height="300px"}
+
+- The **bark** is smooth and green/brown on young trees. On mature trees, the bark is brown/gray and broken into wide, flat-topped ridges with alternating bands of light and dark all the way down the tree to the lower trunk. 
+
+  - Bark of a mature northern red oak:
+  
+  ![](redoakoldbark.jpeg){height="200px"}
+
+  - Bark of a young northern oak:
+  
+  ![](redoakyoungbark.jpeg){heigh="200px"}
+
+- The **acorns** are usually 3/4 to 1 inch long with a round cap. The cap is flat and thick, covering about 1/4 (or less) of the acorn. The flat top if the acorn is an important identifying characteristic. 
+
+![](redoakacorn.jpeg){heigh="300px"}
+
+## Ecological Services
+
+#### The deep root systems contribute to soil anchoring and help resist erosion. Additionally the leaf litter and woody debris contribute to the soil organic matter. The trees are long lives, and captures and stores carbon in its biomass and in the soil. The trees funciton as a source of food and shelter for numerous species. These trees respond well to periodic disturbances such as fire, or harvests around it. When the treesregenerate after disturbances, it can outcompete other shade-tolerant species and influence the dynamics of the forest.
+
+### Animal Uses and Relationships
+
+-   The acorns are a major food source for many mammals including white-tailed deer, black bears, squirrels and chipmunks
+-   Acorns also supply many birds such as wild turkeys and blue jays with food
+-   Mature oaks provide cavities in their trunks that are used by raccoons, owls, bats and more for nesting/roosting
+-   Norther red oaks host hundreds of moth and butterfly caterpillar species
+
+## Fun Facts
+
+-   Northern red oaks are one of the fastest-growing oak species, capable of adding 2 feet or more per year
+-   It takes 2 growing seasons to mature their acorns, unlike white oaks which only need one
+-   Northern red oaks can resprout from stumps following fire or cutting, giving it an advantage in areas with frequent disturbance
+-   Northern red oak is the state tree of New Jersey
+
+## Indigenous History/Uses
+
+-   The bark was used to treat various ailments such as bowel problems, heart problems, bronchial infections, or as a disinfectant
+-   The acorns were ground into meal/flour for bread after leaching the tannins (by boiling/soaking)
+-   The wood was used for tools, utensils and construction
+-   Tannins from the bark were used for dyeing and tanning hides (for leather)
+
+## Conservation
+
+#### Northern red oaks are one of the most abundant hardwoods in New England and the northeastern U.S., however there is some concern regarding regeneratino failure. High deer populations lead to heavy browsing, which apply pressure on the trees and suppress growth. Additionally, the lack of fire regimes which previously exists and worked to reduce competitors has taken away some of the "evolutionary edge" the tree has over other species. Active management is reccommended to ensure successful regeneration of this species. 
+
+### References
+
+
+Smithsonian Gardens. (n.d.). Object: Collections Explorer ofeo-SG_2011-0705A. Smithsonian Institution. https://gardens.si.edu/collections/explore/object/ofeo-sg_2011-0705A
+
+U.S. Department of Agriculture, Natural Resources Conservation Service. (2002, April 19). Northern red oak (Quercus rubra) Plant Guide (Plant Symbol = QURU). https://plants.usda.gov/DocumentLibrary/plantguide/pdf/pg_quru.pdf 
+
+Thomas, L., & Morris, D. (2022, December). Northern red oak (Quercus rubra) (FOR-141) [Fact sheet]. University of Kentucky Cooperative Extension Service. https://forestry.ca.uky.edu/sites/forestry.ca.uky.edu/files/northern_red_oak_factsheet.pdf
+
+Leak, W. B., Yamasaki, M., Ward, J. S., Desmarais, K., & Bennett, K. P. (2017). Ecology and Management of Northern Red Oak in New England. University of New Hampshire Cooperative Extension. https://extension.unh.edu/sites/default/files/migrated_unmanaged_files/Resource006927_Rep9991.pdf 
+
+

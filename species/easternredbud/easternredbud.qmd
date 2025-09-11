@@ -1,0 +1,71 @@
+---
+title: "About Eastern Red Bud (*Cercis canadensis*)"
+format:
+  html:
+    css: styles.css
+---
+
+![](easternredbud.jpeg)
+
+## Summary
+
+#### Eastern redbud is a deciduous tree in the bean family. As a small, ornamental tree, it can often be found growing beneath larger trees. The genus name Cercis derives from the Greek kergis, meaning weaver’s shuttle. This refers to the shape of its bean pod, which resembles the shuttle that weaver’s use to move thread through a loom. Eastern redbud is a flowering tree, meaning flowers bloom before leaves appear. In the spring, light pink and purple flowers bloom and attract many pollinators. The native range of eastern redbud spans from the eastern United States to norther Mexico. 
+
+## Identifying Features
+
+-   The **leaves** of the eastern redbud are alternate and cordate in shape (heart-shaped), being 3 to 5 inches long and wide. The leaves are thin and papery, with their petioles (stalks that support leaf & connect to the stem) swollen on both ends. Coloration is green above and a paler shade of greed below.
+
+![](easternredbudleaf.jpeg){width="200px" height="250px"}
+
+-   **Flowers** of the eastern redbud are a pink to light purple in color, about half an inch long and appear in clusters all along stems, sometimes even in early spring before leaves emerge. The flowers are pea-shaped.
+
+![](easternredbudflower.jpeg){width="250px" height="200px"}
+
+-   The **fruits** are dry, flattened legumes and are brown in color. The fruits are 2-4 inches in length and contain flat, brown seeds which are 1/4 an inch long and mature in late summer. The pods are green when young and mature through a reddish/purplish shade before turning a dark brown as they dry.
+
+![](easternredbudfruit.jpeg){width="150px" height="230px"}
+
+-   The **bark** of the eastern redbud is initially smooth and brown, which turns ridged and furrowed and then to scaly and gray with age. Some individuals may have maroon patches, as well as orange coloration in cracks.
+
+![](easternredbudbark.jpeg){height="230px"}
+
+## Ecological Services
+
+#### the eastern redbud provides critical ecological services for all organisms. The trees help to absord C0~2~ from the atmosphere and stores it, as well as remove atmospheric nitrogen. The trees also works to purify water and provides food and shelter for wildlife.
+
+### Animal Uses and Relationships
+
+-   Butterflies, such as swallowtails, visit the blossoms of the tree for nectar
+-   The flowers bloom in early spring and provide an important nector source for bees before many other plants flower
+-   Birds like cardinals, as well as squirrels will eat the seeds inside the pods
+-   The tree is a larval host for some butterfly and moth species
+
+## Fun Facts
+
+-   The trees flowers appear before the leaves in spring, which creates a bright pink/purple display
+-   The eastern redbud is the state tree of Oklahoma
+-   Although the tree looks like an ornamental, it's actually in the pea family
+
+## Indigenous History/Uses
+
+-   The bark was boiled to make tea for treating whooping cough
+-   Dysentery was treated using an astringent from the bark
+-   The roots and inner bark were utilized for fevers, congestion and vomiting
+-   The twigs and flowers were used in tea, and the flowers were fried to eat
+-   The wood was used in different woodworking applications, like decorative bowls. 
+
+## Conservation
+
+#### Eastern redbud's conservation status is secure, the species is widespread and abundant in its native range. 
+
+### References
+
+Immel, D. L. (2006). Eastern redbud (Cercis canadensis) [Plant guide]. U.S. Department of Agriculture, Natural Resources Conservation Service. https://plants.usda.gov/DocumentLibrary/plantguide/pdf/cs_ceca4.pdf. 
+
+ArcGIS StoryMaps. (2021, September 23). Eastern Redbud [ArcGIS StoryMap]. ArcGIS StoryMaps. https://storymaps.arcgis.com/stories/c7e8eb05062d4559a2f7320930b0067b. 
+
+Smith, B. (2021, April 20). Native Spotlight: Eastern Redbud. Butler Soil & Water Conservation District. https://www.butlerswcd.org/single-post/native-spotlight-eastern-redbud. 
+
+North Carolina State University Cooperative Extension. (n.d.). Cercis canadensis. NC State Extension Plant Toolbox. https://plants.ces.ncsu.edu/plants/cercis-canadensis/. 
+
+Seiler, J., Jensen, E., Niemiera, A., & Peterson, J. (2021). Eastern redbud (Cercis canadensis) [Dendrology fact sheet]. Virginia Tech Department of Forest Resources and Environmental Conservation. https://dendro.cnre.vt.edu/dendrology/syllabus/factsheet.cfm?ID=43.
