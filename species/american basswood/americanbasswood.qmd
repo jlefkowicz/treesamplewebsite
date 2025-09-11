@@ -58,19 +58,17 @@ format:
 
 ## Conservation
 
-####
+#### The species is classified as least concern, the species is fairly widespread globally and is not at risk under current conditions.
 
 ### References
 
-https://www.wildflower.org/plants/result.php?id_plant=TIAM
+Nix, S. (2022, December 8). How to identify American basswood trees. Treehugger. Retrieved from https://www.treehugger.com/identify-american-basswood‑1341847 
 
-https://www.treehugger.com/identify-american-basswood-1341847
+Seiler, J., Jensen, E., Niemiera, A., & Peterson, J. (2021). American basswood (Tilia americana L.) [Fact sheet]. Virginia Tech Department of Forest Resources and Environmental Conservation. Retrieved from https://dendro.cnre.vt.edu/dendrology/syllabus/factsheet.cfm?ID=88 
 
-https://dendro.cnre.vt.edu/dendrology/syllabus/factsheet.cfm?ID=88
+University of Florida, Institute of Food and Agricultural Sciences. (2025, May 7). American basswood – Tilia americana. UF/IFAS, School of Forest, Fisheries, & Geomatics Sciences. Retrieved from https://ffgs.ifas.ufl.edu/tree-tour/american-basswood/
 
-https://ffgs.ifas.ufl.edu/tree-tour/american-basswood/
-
-
+Lady Bird Johnson Wildflower Center. (n.d.). Tilia americana – American basswood. Retrieved from https://www.wildflower.org/plants/result.php?id_plant=TIAM
 
 
 
