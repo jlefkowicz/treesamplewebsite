@@ -6,7 +6,7 @@ website:
   title: "Geneseo Tree ID Project"
   navbar:
     pinned: true
-    left: 
+    left:
       - text: "Tree Species"
         href: treelisting.qmd
   page-footer:
