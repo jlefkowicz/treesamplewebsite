@@ -35,7 +35,7 @@ format: html
 
 ### Animal Uses and Relationships
 
--   animals eat
+-   animals eat some things hwne on the tree
 
 ## Fun Facts
 
