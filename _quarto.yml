@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Geneseo Tree ID Project"
+  title: "Geneseo Community Tree Walk"
   navbar:
     pinned: true
     left:
