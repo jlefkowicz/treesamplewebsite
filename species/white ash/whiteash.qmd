@@ -19,15 +19,15 @@ format: html
 
 -   Young white ash bark:
 
-![](whiteashyb.jpeg){width="125px" height="200px"}
+![](whiteashyb.jpeg){height="300px"}
 
 -   Mature white ash bark:
 
-![](whiteashob.jpeg){height = "200px"}
+![](whiteashob.jpeg){height="300px"}
 
 -   The **fruits** of the white ash are one-winged samara (winged seed) and have a full, rounded seed cavity. Seeds mature in fall and disperse in winter. Dispersal of these fruits is dependent on wind, with each samara being able to travel as far as 500 feet from the tree (being carried just by wind).
 
-![](whiteashsamara.jpeg){height = "300px"}
+![](whiteashsamara.jpeg){width="160px" height="300px"}
 
 ## Ecological Services
 
@@ -53,11 +53,49 @@ format: html
 ## Indigenous History/Uses
 
 -   Numerous medicinal purposes, including:
-    -   decoction of leaves used as a laxative, as well as a general tonic for women following childbirth.
-    -   
+    -   Decoction of leaves used as a laxative, as well as a general tonic for women following childbirth.
+    -   The seeds were used as a diuretic, appetite stimulant, a method to stop bleeding (a styptic) and a cure for fevers. 
+    -   Juice from the leaves was applied to mosquito bites as a method to reduce swelling & itching
+    -   The inner bark was used to create a tea to remove bile from intestines as well as relieve stomach cramps and other ailments, as it possesses diuretic and laxative properties. 
+-   The strength and elasticity of the wood made it an ideal wood for tools and implements
 
 ## Conservation
 
-#### 
+#### The International Union for Conservation of Nature (IUCN) gives the white ash a **Critically Endangered** classification. This classifiaction is *not* refelctive of the current state of the species, rather the projection of the future state of white ash populations. There is a projected decline of over 80% over the next 3 generations of the species. The primary driver of ash decline is the emerald ash borer (EAB), a jewel beetle (bupresitd) native to Eastern Asia. In its native range, the EAB fucntions as a secondary pest, meaning it feeds on a tree already in poor health (stressed due to drought, disease, etc.). However in North America, the EAB acts as a primary pest (feeds on and kills healthy trees) as the native ash trees lack defense mecahnisms present in Asian ash populaitons. This invasive wood-boring insect has killed tens of millions of ash trees in North America. The beetle will lay its eggs in the bark crevices of an ash tree, and when the eggs hatch the larvae will burrow into the tree and feed on the inner bark and phloem. This leads to a decline in the tree's condition and eventually death for an infected tree. EAB threatens not only white ash, but the entire North American *Fraxinus* genus, which includes 7.5 billion trees. Signs of an infected tree are as follows:
+
+* Canopy Thinning:
+
+  ![](canopythinning.jpeg){height="250px"}
+
+* Epicormic Sprouting (growth of new shoots from under a tree's bark on the lower trunk, the tree's "last-resort" to survive by growing new leaves closer to the roots):
+
+  ![](esprouting.jpeg){height="250px"}
+
+* D-Shaped Exit Holes (resulting from adult beetles emerging from under the bark):
+
+  ![](exithole.jpeg){height="250px"}
+
+* S-Shaped Tunnels Made by Larvae: 
+
+  ![](barktunnel.png){"height="250"}
+* Adult Emerald Ash Borer Beetle:
+
+  ![](eab.jpg){height="270px"}
+
 
 ### References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
