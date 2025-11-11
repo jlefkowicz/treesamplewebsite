@@ -1,0 +1,72 @@
+---
+title: "About Black Walnut (*Juglans nigra*)"
+format: html
+---
+
+![](blackwalnut.jpeg)
+
+## Summary
+
+#### Black walnut is a large, deciduous tree that produces nuts encased in green husks. They are allelopathic, meaning they release a chemical that prevents other species from growing nearby. Black walnuts can live for over a century. Black walnut is native to North America, specifically the eastern and central United States.
+
+## Identifying Features
+  * The black walnut has long compound **leaves** holding up to 23 leaflets. The leaflets are arranged opposite each other and frequently lack a terminal leaflet. The leaves turn bright yellow in the fall.
+  
+  ![](bwleaf.jpeg){height="300px"}
+
+  * The **bark** is deeply ridged out onto the branches in mature trees.
+  
+  ![](bwbark.jpeg){height="300px"}
+  
+  * The **fruits** present themselves as green balls, and are held from midsummer well into the fall. The fruits exhibit various stages as rot as the season progresses. The fruits and leaves have a spicy and citrus smell when crushed or scraped. 
+  
+  ![](bwalnut.jpeg){height="300px"}
+
+## Ecological Services
+
+#### As a long-lived and high-biomass hardwood tree, the black walnut sequesters a significant amount of atmospheric carbon. The trees possess extensibe root systems which stabilize the soil and reduce erosion on slopes and floodplains. The broad canopy intercepts rainfall and provides shade which moderates the local microclimate in the understory. The trees release an allelopathic compound called **juglone**, which suppresses the growth of nearby plant species and influences the composition of understory habitats. 
+
+### Animal Uses and Relationships
+
+*   The nuts produces by the black walnut are large and rich in protein and fats. The nuts are commonly eaten by gray squirrels, foxes, chipmunks and some birds.
+*   Squirrels and rodents bury the nuts for storage, and the uneaten nuts often germinate, aiding in the natural regeneration of the trees.
+*   Cavities in the trees are utilized by birds such as woodpeckers and owls. 
+*   The black walnut is host to numerous caterpillar species.
+
+## Fun Facts
+
+*   Black walnuts can live up to 200 years.
+*   The black walnut wood is highly prized for furniture, gunstocks and more due to its strength, fine grain and dark color
+*   The nuts are much harder to crack and have a much stronger and earthier flavor than traditional English walnuts. They are often used in specialty baked goods.
+* The U.S. black walnut industry produces hundreds of millions of dollars in lumber and nut products. 
+
+## Indigenous History/Uses
+
+*   The nuts were eaten raw and ground into meals and soups for their rich flavor.
+*   Teas made from the inner bark were drank as a purgitive or tonic.
+*   The nuts were often pressed to extract oils used in cooking.
+*   Decoction of the bark or leaves were used to treat numerous ailments such as intestinal issues, toothaches and more.
+*   The hard shells allowed for the nuts to be stored over winter as a food source.
+*   Crushed husks give a dark brown/black dye used to color baskets, textiles and more.
+
+## Conservation
+
+#### The black walnut's conservation status is currently not of concern, with healthy and stable native populations on public and private lands.
+
+### References
+
+Moerman, D. (2003). Native American ethnobotany. Timber Press.
+
+Missouri Botanical Garden. (n.d.). Juglans nigra – Black walnut. Missouri Botanical Garden Plant Finder. https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=c200
+
+University of Florida Institute of Food and Agricultural Sciences [IFAS]. (2019). Juglans nigra: Black walnut. University of Florida IFAS Extension. https://hort.ifas.ufl.edu/trees/JUGNIGA.pdf
+
+U.S. Forest Service. (2021). Juglans nigra (L.) black walnut. In Fire Effects Information System. U.S. Department of Agriculture. https://www.fs.usda.gov/database/feis/plants/tree/jugnig/all.html
+
+Missouri Department of Conservation. (n.d.). Black walnut (Juglans nigra). https://mdc.mo.gov/discover-nature/field-guide/black-walnut
+
+Arbor Day Foundation. (n.d.). Black walnut: Juglans nigra. https://www.arborday.org/trees/treeguide/TreeDetail.cfm?ItemID=823
+
+
+
+

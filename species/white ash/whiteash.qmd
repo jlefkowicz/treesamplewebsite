@@ -77,7 +77,7 @@ format: html
 
 * S-Shaped Tunnels Made by Larvae: 
 
-  ![](barktunnel.png){"height="250"}
+  ![](barktunnel.png){height="250"}
 * Adult Emerald Ash Borer Beetle:
 
   ![](eab.jpg){height="270px"}
@@ -85,9 +85,17 @@ format: html
 
 ### References
 
+U.S. Department of Agriculture, Natural Resources Conservation Service. (2002). White ash (Fraxinus americana L.) plant guide. National Plant Data Center & Biota of North America Program. https://plants.usda.gov/DocumentLibrary/plantguide/pdf/pg_fram2.pdf
 
+Symptoms and signs of EAB. Emerald Ash Borer in Wisconsin. (2019, July 11). https://eab.russell.wisc.edu/signs-and-symptoms/ 
 
+Wikimedia Foundation. (2025, October 23). Fraxinus americana. Wikipedia. https://en.wikipedia.org/wiki/Fraxinus_americana 
 
+New England Forestry Foundation. (2022, October 18). Meet the white ash. https://newenglandforestry.org/meet-the-white-ash/ 
+New England Forestry Foundation
+
+North Carolina Cooperative Extension. (n.d.). Fraxinus americana (American ash, white ash). North Carolina State University & North Carolina A&T State University. https://plants.ces.ncsu.edu/plants/fraxinus-americana/ 
+plants.ces.ncsu.edu
 
 
 
