@@ -1,0 +1,105 @@
+---
+title: "About Norway Spruce (*Picea abies*)"
+format:
+  html:
+    css: styles.css
+---
+
+![](norwayspruce.jpeg)
+
+## Summary
+
+#### Norway spruce is a tall evergreen conifer that has dark green needle-like leaves and long cylindrical cones. They thrive in cool and moist environments. It is native to Central and Northern Europe. Norway supruce was introduced to North America in the 1800s and has been widely planted for various uses such as reforestation, ornamental use and windbreaks. In the Northeastern U.S., it is commonly used in landscaping and is considered to be non-invasive, it occosionally will naturalize.
+## Identifying Features
+
+-   The **needles** of the Norway Spruce are shiny and present a deep green color. The needles are stiff and sharp and 0.5 to 1 inch in length. The needles have a quadrangular (4-sided) cross-section.
+
+    ![](nsneedle.webp){height="300px"}
+
+-   The **bark** is a reddish-brown color with a scaly texture on young trees. As the tree matures, the **bark** becomes gray and develops flaky plates.
+
+    -   Young Norway Spruce bark:
+
+        ![](nsyb.webp){height="200px"}
+
+    -   Mature Norway Spruce bark:
+
+        ![](nsob.jpeg){height="200px"}
+        
+-   The **cones** are the most distinctive feature, as they are the longest of any spruce (4 to 8 inches). The cones are cylindrical and hang downwards. Coloration is a light brown color in mature cones and a green to reddish-purple when they are young, and they are coated in thin, stiff scales.
+
+    ![](nsoc.jpeg){height="200px"}
+
+## Ecological Services
+
+#### As a highly productive tree, the Norway spruce can act as a strong carbon sink, and is among the most important species for carbon storage in European forests. Additionally, their root networks can aid in soil stabilization, which reduces erosion risks, especially in vulnerable landscapes (like a slope). They are also shown to improve soil organic matter and nutrient cycling. 
+
+### Animal Uses and Relationships
+
+-   Numerous bird species rely on the cones as a food source. Crossbills are highly adapted to pry open spruce cones. 
+-   The dense structure of the trees provide winter protection and nesting space for a multitude of bird species. 
+-   Squirrels are a major consumer of the Norway spruce cones.
+-   The dense and shaded understory of a spruce stand provides shelter/cover for species such as the pine martin and bats.
+-   Norway spruce serves as a host to a diverse selection of insects
+-   Norway spruce is not highly palatable to most unglates (deer, moose, etc.)
+
+## Fun Facts
+
+-   The root system of the Old Tjikko Norway spruce in Sweden is over 9,500 years old, making it the oldest known tree.
+-   The Norway spruce was on of the first tree species used as a Christmas tree.
+-   It is one of the fastest-growing spruce species in cool climates.
+
+
+## Indigenous History/Uses
+
+#### Native American cultural history is not applicable to this speices, as it did not occur prior to European introduction.
+
+## Conservation
+
+#### Wthe conservation status of the Norway spruce is not of concern, as it has a very large native range and very high population numbers throughout. 
+
+### References
+
+Farjon, A., & Filer, D. (2013). Picea abies. In IUCN Red List of Threatened Species (Version 2023-2). https://doi.org/10.2305/IUCN.UK.2013-1.RLTS.T42318A2972714.en
+
+Caudullo, G., Tinner, W., & de Rigo, D. (2016). Picea abies: Distribution, habitat, and genetic resources. In J. San-Miguel-Ayanz et al. (Eds.), European Atlas of Forest Tree Species (pp. 114–116). Publications Office of the EU.
+
+Ewald, J. (2005). Ecological background of disturbance processes in Norway spruce forests. Forest Snow and Landscape Research, 79(1/2), 13–26.
+
+Pretzsch, H., Biber, P., Uhl, E., Dahlhausen, J., & Rötzer, T., et al. (2015). Growth and yield of major European tree species: Differences and similarities across regions. Forest Ecology and Management, 349, 364–380. https://doi.org/10.1016/j.foreco.2015.04.027
+
+Luyssaert, S., Inglima, I., Jung, M., Richardson, A. D., & Reichstein, M., et al. (2007). CO₂ balance of boreal, temperate, and tropical forests: A global synthesis. Global Change Biology, 13(12), 2509–2537. https://doi.org/10.1111/j.1365-2486.2007.01439.x
+
+Burns, R. M., & Honkala, B. H. (Eds.). (1990). Silvics of North America, Volume 1: Conifers (Agriculture Handbook 654). U.S. Forest Service.
+(Contains the full U.S. silvics profile for Picea abies.)
+
+Seidl, R., Schelhaas, M. J., Lindner, M., & Lexer, M. J. (2009). Modeling bark beetle disturbances in spruce forests. Ecological Modelling, 220, 3353–3364. https://doi.org/10.1016/j.ecolmodel.2009.08.021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
