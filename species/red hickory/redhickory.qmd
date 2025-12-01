@@ -1,0 +1,88 @@
+---
+title: "About Red Hickory (*Carya ovalis*)"
+format:
+  html:
+    css: styles.css
+---
+
+![](redhickory.png)
+
+## Summary
+
+#### A fairly uncommon but widespread hickory native to eastern North America. Red hickory is sometimes referred to as pignut hickory or false shagbark hickory.
+
+## Identifying Features
+* The **leaves** come in groups of 5-7 leaflets (usually 7), and are slender, finely serrated and are usually smooth. Red coloration rare despite the name "*red hickory*", rather a summer color of dark yellow-green and a fall color of golden yellow to orange bronze is observed. 
+
+    ![](rhleaf.jpeg){height="300px"}
+
+* The **bark** is colored a grayish-brown, and is somewhat plated and slightly shaggy. The bark is *not* as shaggy as that of the shagbark hickory.
+
+    ![](rhbark.jpeg){height="300px"}
+    
+* The **nuts** have a thin shell and a sweet to mild bitter taste. The husk splits cleanly into 4 sections.
+
+
+  ![](rhnut.jpeg){height="300px"}
+
+## Ecological Services
+
+#### Red hickories serve their ecosystems in a variety of ways. Their high wood density means they sequester carbon at a high rate, as there is a higher amount of carbon stored per unit volume. Their deep taproots and strong lateral roots increase infiltration and reduce overland flow in upland areas, as well as stabilize slopes and prevent erosion. Red hickory acts as a solid air pollutant remover, as the leaves have high particle adherence and a high leaf surface area index. 
+
+### Animal Uses and Relationships
+* Rodents such as squirrels and chipmunks will consume and scatter-hoard the nuts.
+* Black bears will feed on the nuts in the fall.
+* White-tailed deer will browse shoots/seedlings.
+* Numerous bird species such as turkeys, blue jays and woodpeckers feed on the nuts.
+* Numerous insects and caterpillars feed on the folliage of red hickories. 
+
+## Fun Facts
+* Red hickory nuts are among the sweetest of any hickory species, and are traditionally called "sweet pignut hickories" because the indigenous and early foragers of the Americas found them noticeably sweet.
+* Red hickory wood is extremely dense and is a prized firewood for its heat production.
+* The wood of the red hickory has been used historically to create tool handles due to its toughness
+* The regal moth, also known as the hickory horned devil, is one of North America's largest caterpillars and relies on hickories as host plants
+
+## Indigenous History/Uses
+* Hickory nuts were a major traditional food source, and nuts were gathered in large quantities in the fall
+* The nuts were pounded into a paste, boiled and the oily layer was skimmed off to create "hickory milk"- a rich, oily beverage used in soups and porridge
+* Hickory wood was used for numerous tools.
+* Hickory was a preferred firewood for cooking and smoking meats, due to its high heat output and unique flavor. The ash from the wood was also used to make lye for nixtamilizing corn, a process in which corn kernels are softened and the nutrition is enhanced. 
+
+## Conservation
+
+#### Red hickory is currently considered to be globally secure, and has a widespread populaiton throughout eastern North America. 
+
+### References
+
+Wikipedia contributors. (2025, February 1). Carya ovalis. Wikipedia, The Free Encyclopedia.
+https://en.wikipedia.org/wiki/Carya_ovalis
+
+The Morton Arboretum. (n.d.). Red hickory (Carya ovalis).
+https://mortonarb.org/plant-and-protect/trees-and-plants/red-hickory/
+
+Hamel, P. B., & Chiltoskey, M. U. (1976). Cherokee plants: Their uses — A 400-year history. U.S. Forest Service.
+
+Moerman, D. E. (1998). Native American ethnobotany. Timber Press.
+
+USDA, NRCS. (2018). The PLANTS Database. U.S. Department of Agriculture, Natural Resources Conservation Service. https://plants.usda.gov
+
+Wagner, D. L. (2005). Caterpillars of Eastern North America: A guide to identification and natural history. Princeton University Press.
+
+Forest Products Laboratory. (2010). Wood handbook: Wood as an engineering material (General Technical Report FPL-GTR-190). U.S. Department of Agriculture, Forest Service.
+
+Harmon, M. E., Franklin, J. F., Swanson, F. J., Sollins, P., Gregory, S. V., Lattin, J. D., Anderson, N. H., Cline, S. P., Aumen, N. G., Sedell, J. R., Lienkaemper, G. W., Cromack, K., & Cummins, K. W. (1986). Ecology of coarse woody debris in temperate ecosystems. Advances in Ecological Research, 15, 133–302. https://doi.org/10.1016/S0065-2504(08)60105-8
+
+Martin, A. C., Zim, H. S., & Nelson, A. L. (1951). American wildlife & plants: A guide to wildlife food habits. Dover Publications.
+Melillo, J. M., Aber, J. D., & Muratore, J. F. (1982). Nitrogen and lignin control of hardwood leaf litter decomposition dynamics. Ecology, 63(3), 621–626. https://doi.org/10.2307/1936780
+
+Miles, P. D., & Smith, W. B. (2009). Specific gravity and other properties of wood and bark for 156 tree species found in North America (Research Note NRS-38). U.S. Department of Agriculture, Forest Service.
+
+Nowak, D. J., Crane, D. E., & Stevens, J. C. (2006). Air pollution removal by urban trees and shrubs in the United States. Urban Forestry & Urban Greening, 4(3–4), 115–123. https://doi.org/10.1016/j.ufug.2006.01.007
+
+Nowak, D. J., Hirabayashi, S., Bodine, A., & Greenfield, E. (2014). Tree and forest effects on air quality and human health in the United States. Environmental Pollution, 193, 119–129. https://doi.org/10.1016/j.envpol.2014.05.028
+
+Phillips, R. P., Brzostek, E., & Midgley, M. G. (2013). The mycorrhizal-associated nutrient economy: A new framework for predicting carbon–nutrient interactions in forests. New Phytologist, 199(1), 41–51. https://doi.org/10.1111/nph.12221
+
+Shigo, A. L. (1984). Compartmentalization: A conceptual framework for understanding how trees grow and defend themselves. Annual Review of Phytopathology, 22, 189–214. https://doi.org/10.1146/annurev.py.22.090184.001201
+
+Tallamy, D. W., & Shropshire, K. J. (2009). Ranking lepidopteran use of native versus introduced plants. Conservation Biology, 23(4), 941–947. https://doi.org/10.1111/j.1523-1739.2009.01251.x
