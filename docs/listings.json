@@ -2,19 +2,19 @@
   {
     "listing": "/treelisting.html",
     "items": [
-      "/species/species template/template.html",
-      "/species/white ash/whiteash.html",
-      "/species/Sugar maple/sugar_maple_info.html",
-      "/species/red hickory/redhickory.html",
-      "/species/norway spruce/norwayspruce.html",
-      "/species/norway maple/norwaymaple.html",
-      "/species/northern red oak/northernredoak.html",
-      "/species/easternredbud/easternredbud.html",
-      "/species/black walnut/blackwalnut.html",
-      "/species/black pine/blackpine.html",
-      "/species/black oak/blackoak.html",
-      "/species/black maple/blackmaple.html",
-      "/species/american basswood/americanbasswood.html"
+      "/species/template.html",
+      "/species/whiteash.html",
+      "/species/sugar_maple_info.html",
+      "/species/redhickory.html",
+      "/species/norwayspruce.html",
+      "/species/norwaymaple.html",
+      "/species/northernredoak.html",
+      "/species/easternredbud.html",
+      "/species/blackwalnut.html",
+      "/species/blackpine.html",
+      "/species/blackoak.html",
+      "/species/blackmaple.html",
+      "/species/americanbasswood.html"
     ]
   }
 ]
