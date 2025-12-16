@@ -11,6 +11,7 @@ format:
 ## Summary
 
 #### Norway spruce is a tall evergreen conifer that has dark green needle-like leaves and long cylindrical cones. They thrive in cool and moist environments. It is native to Central and Northern Europe. Norway supruce was introduced to North America in the 1800s and has been widely planted for various uses such as reforestation, ornamental use and windbreaks. In the Northeastern U.S., it is commonly used in landscaping and is considered to be non-invasive, it occosionally will naturalize.
+
 ## Identifying Features
 
 -   The **needles** of the Norway Spruce are shiny and present a deep green color. The needles are stiff and sharp and 0.5 to 1 inch in length. The needles have a quadrangular (4-sided) cross-section.

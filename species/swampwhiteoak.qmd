@@ -10,7 +10,7 @@ format:
 
 ## Summary
 
-####Swamp white oak is a medium- to large-sized deciduous tree native to eastern and central North America, commonly found in floodplains, bottomlands, and other poorly drained sites. It is well adapted to seasonal flooding and heavy clay soils, grows at a moderate rate, and can live for several centuries. The species develops a broad, rounded crown and has distinctive leaves that are dark green above and pale beneath, with shallow lobes. Ecologically, swamp white oak is an important structural component of riparian and wetland forests, contributing to soil stability and floodplain resilience.
+#### Swamp white oak is a medium- to large-sized deciduous tree native to eastern and central North America, commonly found in floodplains, bottomlands, and other poorly drained sites. It is well adapted to seasonal flooding and heavy clay soils, grows at a moderate rate, and can live for several centuries. The species develops a broad, rounded crown and has distinctive leaves that are dark green above and pale beneath, with shallow lobes. Ecologically, swamp white oak is an important structural component of riparian and wetland forests, contributing to soil stability and floodplain resilience.
 
 ## Identifying Features
 
@@ -23,7 +23,7 @@ format:
 
 * The **acorns** are large, oval and mature in one season. The caps are deep, and rough in texture often with a fuzzy or fringed edge, giving it a shaggy appearance. 
 
-    ![](swoacorn.jpeg){height = "300px}
+    ![](swoacorn.jpeg){height="300px"}
 
 ## Ecological Services
 

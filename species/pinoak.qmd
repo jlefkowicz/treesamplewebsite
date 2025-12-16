@@ -1,0 +1,48 @@
+---
+title: "About Pin Oak (*Quercus palustris*)"
+slug: "pin-oak"
+format:
+  html:
+    css: styles.css
+---
+
+![](pinoak.jpeg) 
+
+# Summary  
+Pin oak is a medium-sized deciduous oak native to the eastern and central United States. It is naturally associated with floodplains, lowlands, and other wet or poorly drained sites, but it is also widely planted in towns and cities. Compared with many oaks, it grows relatively quickly and is best known for its distinctive branching pattern and tolerance of periodic flooding.
+
+# Identifying Features  
+- **Leaves** are deeply cut with narrow, pointed lobes, each ending in a small bristle; they are glossy green in summer and often turn red to bronze in fall.  
+- **Bark** is smooth and gray on young trees, becoming darker and lightly ridged with age.  
+- **Acorns** are small and round with a shallow cap covering about one-quarter of the nut; they mature in two growing seasons.  
+- The **crown** is typically pyramidal when young, with lower branches drooping, middle branches spreading outward, and upper branches angled upward.
+
+# Ecological Services  
+Pin oak contributes to floodplain and lowland forest function by stabilizing soils and maintaining tree cover in areas prone to seasonal flooding. Its canopy provides shade and contributes to local cooling, while its long lifespan allows it to store carbon over time. In developed landscapes, it can also help intercept rainfall and reduce runoff when planted on appropriate sites.
+
+## Animal Uses / Relationships  
+- Acorns are used by a wide range of wildlife species.  
+- Leaves support many native insect species.  
+- The branching structure provides cover and nesting space.
+- Mature trees provide long-term habitat stability in wetland and riparian settings.
+
+# Indigenous History / Uses  
+- Oak wood was widely valued for its strength and durability and used for tools, implements, and construction.  
+- Bark and inner bark of oak species were commonly used in traditional medicinal preparations.  
+- Acorns from oaks were sometimes processed into food after leaching, depending on local practices.  
+- Oaks often held cultural importance as long-lived trees within seasonal gathering landscapes.
+
+# Conservation Status  
+Pin oak (*Quercus palustris*) is considered secure across most of its native range and is not listed as threatened or endangered. It remains common in suitable floodplain habitats and is widely planted. Local problems can occur where hydrology is altered or where urban plantings are placed on alkaline soils, which can reduce tree health, but the species is not globally at risk.
+
+# References  
+
+- USDA, NRCS. (2024). *Quercus palustris* Münchh. Pin oak. **The PLANTS Database**. U.S. Department of Agriculture. https://plants.usda.gov  
+
+- Flora of North America Editorial Committee. (1997). *Quercus palustris*. In *Flora of North America North of Mexico* (Vol. 3). https://floranorthamerica.org/Quercus_palustris  
+
+- Missouri Botanical Garden. (n.d.). *Quercus palustris (Pin oak)*. Plant Finder. https://www.missouribotanicalgarden.org  
+
+- NatureServe. (2023). *Quercus palustris*. NatureServe Explorer. https://explorer.natureserve.org  
+
+- U.S. Forest Service. (n.d.). *Pin oak (*Quercus palustris*)*. Silvics of North America. https://www.fs.usda.gov
