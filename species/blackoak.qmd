@@ -5,7 +5,7 @@ format:
     css: styles.css
 ---
 
-![](/Users/joshlefkowicz/treesamplewebsite/species/norway%20spruce/blackoak.jpeg)
+![](blackoak.jpeg)
 
 ## Summary
 
