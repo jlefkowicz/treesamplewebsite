@@ -5,61 +5,68 @@ format:
     css: styles.css
 ---
 
-![](/Users/joshlefkowicz/treesamplewebsite/species/norway spruce/blackoak.jpeg)
+![](/Users/joshlefkowicz/treesamplewebsite/species/norway%20spruce/blackoak.jpeg)
 
 ## Summary
 
-#### The black oak is a common, medium-sized tree that belongs to the red oak family. It is widespread and found on many sites with varying soil conditions. The leaves of black oaks also vary, being between 4 and 10 inches long, with five to seven lobes. Young trees have bark that is grey and smooth, while older trees have very dark grey to black bark.  
+#### The black oak is a common, medium-sized tree that belongs to the red oak family. It is widespread and found on many sites with varying soil conditions. The leaves of black oaks also vary, being between 4 and 10 inches long, with five to seven lobes. Young trees have bark that is grey and smooth, while older trees have very dark grey to black bark.
 
 ## Identifying Features
--   The **leaves** of the black oak are highly variable, however are usually between 4 and 10 inches long with 5-7 lobes and colored green (yellow-dull red in the fall). The lobes have bristle tips (sharp, hair-like point at each lobe's point).  Sun leaves (found on the outermost canopy layer) are typically shiny and thick, with deep spaces between the lobes. Shaded leaves tend to be more broad, less shiny and papery. One of the most important identifying characteristics of black oaks are the velvety hairs found on the underside of the leaf, especially along the leaf vein. 
 
-  - Sun leaf example:
-  
-    ![](blackoaksunleaf.jpeg){width="200px" height="300px"}
-  - Shaded leaf example:
-  
+-   The **leaves** of the black oak are highly variable, however are usually between 4 and 10 inches long with 5-7 lobes and colored green (yellow-dull red in the fall). The lobes have bristle tips (sharp, hair-like point at each lobe's point). Sun leaves (found on the outermost canopy layer) are typically shiny and thick, with deep spaces between the lobes. Shaded leaves tend to be more broad, less shiny and papery. One of the most important identifying characteristics of black oaks are the velvety hairs found on the underside of the leaf, especially along the leaf vein.
+
+-   Sun leaf example:
+
+    ![](blackoaksunleaf.jpeg){height="300px"}
+
+-   Shaded leaf example:
+
     ![](blackoakshadeleaf.jpeg){width="300px" height="200px"}
-  - Velvety underside hairs:
-  
+
+-   Velvety underside hairs:
+
     ![](blackoakhair.jpeg){width="200px" height="300px"}
+
 -   The **bark** is gray and smooth on younger trees, and very dark gray to near black on mature trees. Mature bark also becomes roublackgh. The inner bark is yellow-orange, giving this species a second name of "yellow oak"
-  
-  - Bark of a young black oak:
-  
+
+-   Bark of a young black oak:
+
     ![](blackoakyb.jpeg){width="200px" height="300px"}
-  - Bark of a mature black oak:
-  
+
+-   Bark of a mature black oak:
+
     ![](blackoakob.jpeg){width="200px" height="300px"}
-    
-  - Inner bark of a black oak:
-  
+
+-   Inner bark of a black oak:
+
     ![](blackoakinnerbark.jpeg){width="200px" height="200px"}
-    
 
 ## Ecological Services
 
-#### Acting as a keystone species in many ecosystems, black oaks provide numerous crucial ecological surfaces. They support a wide range of wildlife through food and shelter. Additionally, the trees enhance soil health and play a vital role in carbon sequestration. Their extensive root networks help prevent soil erosion, as well as aid in water purification processes. 
+#### Acting as a keystone species in many ecosystems, black oaks provide numerous crucial ecological surfaces. They support a wide range of wildlife through food and shelter. Additionally, the trees enhance soil health and play a vital role in carbon sequestration. Their extensive root networks help prevent soil erosion, as well as aid in water purification processes.
 
 ### Animal Uses/Relationships
-* Acorns from the black oak provide an essential food source for over 100 different animals including bears, oppossums, ducks and many more
-* The acorns serve as a necessity for many animals during times of food scarcity in winter
-  * The acorns retain their nutritional value throughout the year
-* Many species of moths rely on black oak for food for their larvae, however gypsy moths have the potential to be incredible destructive. 2 or 3 deflorations from these insects weakens the tree enough to kill it. 
+
+-   Acorns from the black oak provide an essential food source for over 100 different animals including bears, oppossums, ducks and many more
+-   The acorns serve as a necessity for many animals during times of food scarcity in winter
+    -   The acorns retain their nutritional value throughout the year
+-   Many species of moths rely on black oak for food for their larvae, however gypsy moths have the potential to be incredible destructive. 2 or 3 deflorations from these insects weakens the tree enough to kill it.
 
 ## Fun Facts
-* The scientific name *velutina* means "velvety", because of the hairs present on the leaves of the black oak
-* The wood of the black oak is often used for furniture, flooring and more
-* The inner bark of the black oak is yellow/arange
+
+-   The scientific name *velutina* means "velvety", because of the hairs present on the leaves of the black oak
+-   The wood of the black oak is often used for furniture, flooring and more
+-   The inner bark of the black oak is yellow/arange
 
 ## Indigenous History/Uses
-* The acorns were collected and leached to remove tannins, then ground into flour to prepare various dishes
-* The inner bark contains quercitannic acid and was used medicinally in the treatment of numerous conditions, including intermittent fevers, asthma and chronic dysentery.
-* The wood was used in construction for fence posts and as fuel, although it was less commonly used than other trees due to its lower quality.
+
+-   The acorns were collected and leached to remove tannins, then ground into flour to prepare various dishes
+-   The inner bark contains quercitannic acid and was used medicinally in the treatment of numerous conditions, including intermittent fevers, asthma and chronic dysentery.
+-   The wood was used in construction for fence posts and as fuel, although it was less commonly used than other trees due to its lower quality.
 
 ## Conservation
 
-#### Black oak is currently classified as a species of least concern and is not facing significant risks of extinction. In certain areas, localized pressures such as habitat change and disease might impact populations. However, the overall conservation status of the species is secure. 
+#### Black oak is currently classified as a species of least concern and is not facing significant risks of extinction. In certain areas, localized pressures such as habitat change and disease might impact populations. However, the overall conservation status of the species is secure.
 
 ### References
 
@@ -69,9 +76,6 @@ Nix, S. (2022, February 18). Black oak identification: How to identify the black
 
 Thomas, L., & Morris, D. (n.d.). Black oak (Quercus velutina). University of Kentucky Department of Forestry and Natural Resources. Retrieved September 9, 2025, from https://forestry.ca.uky.edu/sites/forestry.ca.uky.edu/files/black_oak_factsheet.pdf
 
-Museum of Science and Industry. (n.d.). Black oak (Quercus velutina). Illinois State Museum. Retrieved September 9, 2025, from
-https://www.museum.state.il.us/muslink/forest/htmls/trees/Q-velutina.html
+Museum of Science and Industry. (n.d.). Black oak (Quercus velutina). Illinois State Museum. Retrieved September 9, 2025, from https://www.museum.state.il.us/muslink/forest/htmls/trees/Q-velutina.html
 
 Plants for a Future. (n.d.). Quercus velutina. Retrieved September 9, 2025, from https://pfaf.org/user/Plant.aspx?LatinName=Quercus+velutina
-
-
