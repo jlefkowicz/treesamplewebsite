@@ -12,16 +12,24 @@ format:
 Pin oak is a medium-sized deciduous oak native to the eastern and central United States. It is naturally associated with floodplains, lowlands, and other wet or poorly drained sites, but it is also widely planted in towns and cities. Compared with many oaks, it grows relatively quickly and is best known for its distinctive branching pattern and tolerance of periodic flooding.
 
 # Identifying Features  
-- **Leaves** are deeply cut with narrow, pointed lobes, each ending in a small bristle; they are glossy green in summer and often turn red to bronze in fall.  
+
+- **Leaves** are deeply cut with narrow, pointed lobes, each ending in a small bristle; they are glossy green in summer and often turn red to bronze in fall. 
+
+![](pinoakleaf.jpeg){heigh="300px"}
+
 - **Bark** is smooth and gray on young trees, becoming darker and lightly ridged with age.  
+
+![](pinoakbark.jpeg){height="300px"}
+
 - **Acorns** are small and round with a shallow cap covering about one-quarter of the nut; they mature in two growing seasons.  
-- The **crown** is typically pyramidal when young, with lower branches drooping, middle branches spreading outward, and upper branches angled upward.
+
+![](pinoakacorns.jpeg){height="300px"}
 
 # Ecological Services  
 Pin oak contributes to floodplain and lowland forest function by stabilizing soils and maintaining tree cover in areas prone to seasonal flooding. Its canopy provides shade and contributes to local cooling, while its long lifespan allows it to store carbon over time. In developed landscapes, it can also help intercept rainfall and reduce runoff when planted on appropriate sites.
 
 ## Animal Uses / Relationships  
-- Acorns are used by a wide range of wildlife species.  
+- Acorns are used by a wide range of wildlife species as a food source.  
 - Leaves support many native insect species.  
 - The branching structure provides cover and nesting space.
 - Mature trees provide long-term habitat stability in wetland and riparian settings.

@@ -10,7 +10,7 @@ format:
 
 ## Summary
 
-#### Black locust (*Robinia pseudoacacia*) is a medium-sized deciduous tree native to the Appalachian and Ozark regions of the eastern United States. The species grows quickly and is highly adaptable, allowing it to thrive in disturbed habitats such as roadsides, abandoned fields, forest edges, and reclaimed mining sites. Black locust is well known for its ability to fix atmospheric nitrogen through a symbiotic relationship with soil bacteria, which allows it to grow in poor or degraded soils and gradually improve soil fertility. Because of this trait and its rapid growth, the species has been widely planted for erosion control, land reclamation, and timber production. However, outside of its native range black locust can spread aggressively through root suckers and dense seed production, sometimes forming monocultures that reduce native plant diversity.
+#### Black locust (*Robinia pseudoacacia*) is a medium-sized deciduous tree belonging to the pea family and is native to the Appalachian and Ozark regions of the eastern United States. The species grows quickly and is highly adaptable, allowing it to thrive in disturbed habitats such as roadsides, abandoned fields, forest edges, and reclaimed mining sites. Black locust is well known for its ability to fix atmospheric nitrogen through a symbiotic relationship with soil bacteria, which allows it to grow in poor or degraded soils and gradually improve soil fertility. Because of this trait and its rapid growth, the species has been widely planted for erosion control, land reclamation, and timber production. However, outside of its native range black locust can spread aggressively through root suckers and dense seed production, sometimes forming monocultures that reduce native plant diversity.
 
 ## Identifying Features
 
@@ -26,9 +26,18 @@ format:
 
 ![](blacklocustfruit.jpeg){height="300px"}
 
+* The **bark** is thick and deeply furrowed with a rough texture. It is usually gray, tan or gray-ish brown in color with an orange to reddish-brown coloration in the deep furrows. Mature bark often has interlacing rope-like ridges. 
+
+![](blacklocustbark.jpeg){height="300px"}
+
+* The **twigs** are typically smooth or finely hairy, and often have a pair of sharp spines at each leaf or leaf scar. 
+
+![](blacklocusttwig.jpeg){height="300px"}
+
+
 ## Ecological Services
 
-#### Black locust provides several ecological benefits, particularly in disturbed or nutrient-poor environments. As a nitrogen-fixing species, it enriches soil by converting atmospheric nitrogen into forms usable by plants, improving soil fertility and facilitating ecological succession. This ability makes black locust an important pioneer species that helps stabilize degraded landscapes and prepare sites for later successional plant communities. The tree’s deep root system also stabilizes soil and reduces erosion on slopes or disturbed ground. Its abundant spring flowers are an important nectar source for pollinators, and the tree contributes organic matter to the forest floor through leaf litter, improving soil structure and nutrient cycling.
+#### Black locust provides several ecological benefits, particularly in disturbed or nutrient-poor environments. As a nitrogen-fixing species, it enriches soil by converting atmospheric nitrogen into forms usable by plants, improving soil fertility and facilitating ecological succession. This ability makes black locust an important pioneer species that helps stabilize degraded landscapes and prepare sites for later successional plant communities. The tree’s deep root system also stabilizes soil and reduces erosion on slopes or disturbed ground. The tree contributes organic matter to the forest floor through leaf litter, improving soil structure and nutrient cycling.
 
 ### Animal Uses and Relationships
 
@@ -40,7 +49,6 @@ format:
 -   Older trees may develop cavities that provide nesting sites for birds and shelter for small mammals
 
 ## Fun Facts
-*
 
 -   Black locust wood is extremely dense and rot-resistant, making it one of the most durable hardwoods in North America
 -   The wood is commonly used for fence posts and outdoor structures because it resists decay without chemical treatment
@@ -49,7 +57,6 @@ format:
 -   Early American settlers widely planted black locust for erosion control and durable timber
 
 ## Indigenous History/Uses
-*
 
 -   Indigenous peoples in eastern North America used black locust wood to craft bows, tools, and structural supports due to its strength and durability
 -   The rot-resistant wood was valued for stakes, agricultural implements, and construction materials
@@ -61,6 +68,8 @@ format:
 #### Black locust is not currently considered threatened and is widely distributed across North America. In many regions outside of its native range the species behaves as an aggressive colonizer because it spreads through both seeds and root suckers. Dense stands can form that outcompete native vegetation and alter soil chemistry through nitrogen enrichment. For this reason, black locust management often focuses on controlling its spread in sensitive ecosystems such as prairies, grasslands, and certain forest habitats. At the same time, the species remains valuable in restoration settings where soil stabilization, nitrogen enrichment, and rapid vegetation establishment are needed.
 
 ### References
+
+U.S. Forest Service. (n.d.). Black locust (Robinia pseudoacacia). Celebrating Wildflowers: Plant of the Week. https://www.fs.usda.gov/wildflowers/plant-of-the-week/Robinia-pseudoacacia.shtml
 
 U.S. Department of Agriculture, Natural Resources Conservation Service. (2023). Black locust (*Robinia pseudoacacia*) plant guide. https://plants.usda.gov/DocumentLibrary/plantguide/pdf/pg_ROPS.pdf
 
